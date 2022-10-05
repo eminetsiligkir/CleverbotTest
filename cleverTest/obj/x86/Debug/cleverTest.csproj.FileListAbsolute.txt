@@ -1,0 +1,10 @@
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\bin\Debug\cleverTest.rxtmg
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\bin\Debug\cleverTest.rxtst
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\bin\Debug\cleverTest.exe.config
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\bin\Debug\cleverTest.xml
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\bin\Debug\cleverTest.exe
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\bin\Debug\cleverTest.pdb
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\obj\x86\Debug\cleverTest.csprojResolveAssemblyReference.cache
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\obj\x86\Debug\cleverTest.exe
+C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\obj\x86\Debug\cleverTest.pdb

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="52.54s"
+		durationms="52535"
+		type="root"
+		rid="1f86922a455e4c8c"
+		totalerrorcount="1"
+		totalwarningcount="2"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="giare"
+		rxversion="10.2.3.0"
+		host="LAPTOP-ST6BFGHD"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="14.09.2022 10:53:52"
+		timestampiso="2022-09-14T07:53:52"
+		endtime="14.09.2022 10:54:44"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="TestCase2">
+		<detail>
+			TestCase2
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.077"
+			timeRelativeToTestModuleStartTime="00:08.077"
+			timeWallClock="10:54:00"
+			time="00:08.077"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'CleverbotComACleverBotSpeakTo.Pane' at 593;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'Cleverbot.com - a clever bot']/container[@accessiblename>'Como te llamas? - Google']/container[@accessiblename='Google Chrome']//tabpagelist[@accessiblerole='PageTabList']/container[1]/container[2]"
+				itempath="container[@accessiblename>'Como te llamas? - Google']/container[@accessiblename='Google Chrome']//tabpagelist[@accessiblerole='PageTabList']/container[1]/container[2]"
+				fullname="cleverTestRepository.CleverbotComACleverBotSpeakTo.Pane"
+				id="701b2d42c51041c58a0cd663a30add0e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:48.190"
+			timeRelativeToTestModuleStartTime="00:48.190"
+			timeWallClock="10:54:40"
+			time="00:48.190"
+			level="Info"
+			category="User">
+			<message>
+				Item 'Pane' was found using Robust path.
+			</message>
+			<metainfo
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="83"
+				loglvl="Info"
+				itemindex="0">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:48.209"
+			timeRelativeToTestModuleStartTime="00:48.209"
+			timeWallClock="10:54:40"
+			time="00:48.209"
+			level="Warn"
+			category="Repository">
+			<message>
+				Failed to update the cached element for folder 'cleverTestRepository.CleverbotComACleverBotSpeakTo'. In order to analyze this issue, please contact support at https://www.ranorex.com/support-query/ with a copy of this report, the repository, and a snapshot of the automated application.
+			</message>
+			<metainfo
+				descendantPath="container[@accessiblename>'Como te llamas? - Google']/container[@accessiblename='Google Chrome']//tabpagelist[@accessiblerole='PageTabList']/container[1]/container[2]"
+				invertedPath="self::container/parent::container/parent::tabpagelist[@accessiblerole='PageTabList']/ancestor-or-self::container[@accessiblename='Google Chrome']/parent::container[@accessiblename>'Como te llamas? - Google']/parent::*"
+				basePathToCachedFolder="/form[@title>'Cleverbot.com - a clever bot']"
+				invertedBasePath="self::form[@title>'Cleverbot.com - a clever bot']/parent::host/self::*"
+				AbsoluteBasePath="/form[@title>'Cleverbot.com - a clever bot']"
+				folderSearchTimeout="30s"
+				folderElementCandidates.Count="0"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="83"
+				loglvl="Warn"
+				itemindex="0">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:48.294"
+			timeRelativeToTestModuleStartTime="00:48.294"
+			timeWallClock="10:54:40"
+			time="00:48.294"
+			level="Warn"
+			category="Click"
+			errimg="images_TestCase_cfa22937\TestCase_4ec035c4_rxlog.jpg"
+			errthumb="images_TestCase_cfa22937\TestCase_4ec035c4_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="83"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:48.721"
+			timeRelativeToTestModuleStartTime="00:48.721"
+			timeWallClock="10:54:40"
+			time="00:48.721"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Avatarform1.Thinkaboutitbutton' at 100;26.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkaboutitbutton']"
+				itempath="input[@name='thinkaboutitbutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Avatarform1.Thinkaboutitbutton"
+				id="674cc377ad0046e997a70f414550d911"
+				timeout="90000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:52.536"
+			timeRelativeToTestModuleStartTime="00:52.536"
+			timeWallClock="10:54:44"
+			time="00:52.536"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="15.32s"
+		durationms="15321"
+		type="root"
+		rid="177609b727895867"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="giare"
+		rxversion="10.2.3.0"
+		host="LAPTOP-ST6BFGHD"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="14.09.2022 10:45:48"
+		timestampiso="2022-09-14T07:45:48"
+		endtime="14.09.2022 10:46:03"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="TestCase2">
+		<detail>
+			TestCase2
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.156"
+			timeRelativeToTestModuleStartTime="00:06.156"
+			timeWallClock="10:45:54"
+			time="00:06.156"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Stimulus' at 90;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.527"
+			timeRelativeToTestModuleStartTime="00:08.527"
+			timeWallClock="10:45:57"
+			time="00:08.527"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Thinkformebutton' at 72;21.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+				itempath=".//form[#'avatarform']/input[@name='thinkformebutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Thinkformebutton"
+				id="a828765941ff4a99b9576ffdf1c4586e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.002"
+			timeRelativeToTestModuleStartTime="00:09.002"
+			timeWallClock="10:45:57"
+			time="00:09.002"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Stimulus' at 112;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.576"
+			timeRelativeToTestModuleStartTime="00:09.576"
+			timeWallClock="10:45:58"
+			time="00:09.576"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Thinkformebutton' at 102;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+				itempath=".//form[#'avatarform']/input[@name='thinkformebutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Thinkformebutton"
+				id="a828765941ff4a99b9576ffdf1c4586e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.145"
+			timeRelativeToTestModuleStartTime="00:10.145"
+			timeWallClock="10:45:58"
+			time="00:10.145"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Stimulus' at 186;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.645"
+			timeRelativeToTestModuleStartTime="00:10.645"
+			timeWallClock="10:45:59"
+			time="00:10.645"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Thinkformebutton' at 62;26.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+				itempath=".//form[#'avatarform']/input[@name='thinkformebutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Thinkformebutton"
+				id="a828765941ff4a99b9576ffdf1c4586e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.341"
+			timeRelativeToTestModuleStartTime="00:11.341"
+			timeWallClock="10:45:59"
+			time="00:11.341"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Thinkformebutton' at 53;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+				itempath=".//form[#'avatarform']/input[@name='thinkformebutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Thinkformebutton"
+				id="a828765941ff4a99b9576ffdf1c4586e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.912"
+			timeRelativeToTestModuleStartTime="00:11.912"
+			timeWallClock="10:46:00"
+			time="00:11.912"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Stimulus' at 148;22.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.667"
+			timeRelativeToTestModuleStartTime="00:12.667"
+			timeWallClock="10:46:01"
+			time="00:12.667"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Thinkformebutton' at 64;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+				itempath=".//form[#'avatarform']/input[@name='thinkformebutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Thinkformebutton"
+				id="a828765941ff4a99b9576ffdf1c4586e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.409"
+			timeRelativeToTestModuleStartTime="00:13.409"
+			timeWallClock="10:46:02"
+			time="00:13.409"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Thinkformebutton' at 55;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+				itempath=".//form[#'avatarform']/input[@name='thinkformebutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Thinkformebutton"
+				id="a828765941ff4a99b9576ffdf1c4586e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.885"
+			timeRelativeToTestModuleStartTime="00:13.885"
+			timeWallClock="10:46:02"
+			time="00:13.885"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Thinkformebutton' at 88;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+				itempath=".//form[#'avatarform']/input[@name='thinkformebutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Thinkformebutton"
+				id="a828765941ff4a99b9576ffdf1c4586e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="122"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.426"
+			timeRelativeToTestModuleStartTime="00:14.426"
+			timeWallClock="10:46:03"
+			time="00:14.426"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Thinkformebutton' at 40;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+				itempath=".//form[#'avatarform']/input[@name='thinkformebutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Thinkformebutton"
+				id="a828765941ff4a99b9576ffdf1c4586e"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.012"
+			timeRelativeToTestModuleStartTime="00:15.012"
+			timeWallClock="10:46:03"
+			time="00:15.012"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 480 units.
+			</message>
+			<metainfo
+				itemindex="12"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="130"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="32.05s"
+		durationms="32048"
+		type="root"
+		rid="36b1d7b97c6ca64"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="giare"
+		rxversion="10.2.3.0"
+		host="LAPTOP-ST6BFGHD"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="14.09.2022 10:55:14"
+		timestampiso="2022-09-14T07:55:14"
+		endtime="14.09.2022 10:55:46"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="TestCase2">
+		<detail>
+			TestCase2
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.743"
+			timeRelativeToTestModuleStartTime="00:08.743"
+			timeWallClock="10:55:22"
+			time="00:08.743"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Avatarform1.Thinkaboutitbutton' at 100;26.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkaboutitbutton']"
+				itempath="input[@name='thinkaboutitbutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Avatarform1.Thinkaboutitbutton"
+				id="674cc377ad0046e997a70f414550d911"
+				timeout="90000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:32.045"
+			timeRelativeToTestModuleStartTime="00:32.045"
+			timeWallClock="10:55:46"
+			time="00:32.045"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

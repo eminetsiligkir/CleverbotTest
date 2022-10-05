@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="12.79s"
+		durationms="12790"
+		type="root"
+		rid="78f1e289afbece2"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="giare"
+		rxversion="10.2.3.0"
+		host="LAPTOP-ST6BFGHD"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="14.09.2022 10:30:35"
+		timestampiso="2022-09-14T07:30:35"
+		endtime="14.09.2022 10:30:48"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Failed to move to location '751;369' within element '{BodyTag:cbavatarasr cbnotsignedin page-other pagetype-home}'.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.398"
+			timeRelativeToTestModuleStartTime="00:05.398"
+			timeWallClock="10:30:40"
+			time="00:05.398"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Submit' at 71;22.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//div[#'noteb']/form[@action='javascript:noteok()']/input[@type='submit']"
+				itempath=".//div[#'noteb']/form[@action='javascript:noteok()']/input[@type='submit']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Submit"
+				id="9b4dd66a49f140aa90cff2ff74d69f25"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.473"
+			timeRelativeToTestModuleStartTime="00:07.473"
+			timeWallClock="10:30:42"
+			time="00:07.473"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Stimulus' at 105;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.988"
+			timeRelativeToTestModuleStartTime="00:07.988"
+			timeWallClock="10:30:43"
+			time="00:07.988"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Back}hello' with focus on 'ApplicationUnderTest.Stimulus'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.217"
+			timeRelativeToTestModuleStartTime="00:08.217"
+			timeWallClock="10:30:43"
+			time="00:08.217"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Stimulus' at 120;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.686"
+			timeRelativeToTestModuleStartTime="00:08.686"
+			timeWallClock="10:30:43"
+			time="00:08.686"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Actionsicon' at 7;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//img[#'actionsicon']"
+				itempath=".//img[#'actionsicon']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Actionsicon"
+				id="7602f8a6f64c4dbfb86c981d7931cac5"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.169"
+			timeRelativeToTestModuleStartTime="00:09.169"
+			timeWallClock="10:30:44"
+			time="00:09.169"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Stimulus' at 398;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.653"
+			timeRelativeToTestModuleStartTime="00:09.653"
+			timeWallClock="10:30:44"
+			time="00:09.653"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Stimulus' at 321;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.135"
+			timeRelativeToTestModuleStartTime="00:10.135"
+			timeWallClock="10:30:45"
+			time="00:10.135"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Return}' with focus on 'ApplicationUnderTest.Stimulus'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.235"
+			timeRelativeToTestModuleStartTime="00:10.235"
+			timeWallClock="10:30:45"
+			time="00:10.235"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Back}i dont' with focus on 'ApplicationUnderTest.Stimulus'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.476"
+			timeRelativeToTestModuleStartTime="00:10.476"
+			timeWallClock="10:30:45"
+			time="00:10.476"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Return}' with focus on 'ApplicationUnderTest.Stimulus'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.742"
+			timeRelativeToTestModuleStartTime="00:10.742"
+			timeWallClock="10:30:45"
+			time="00:10.742"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'how can i do{Return}' with focus on 'ApplicationUnderTest.Stimulus'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="122"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.180"
+			timeRelativeToTestModuleStartTime="00:11.180"
+			timeWallClock="10:30:46"
+			time="00:11.180"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Back}como te illama' with focus on 'ApplicationUnderTest.Stimulus'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.592"
+			timeRelativeToTestModuleStartTime="00:11.592"
+			timeWallClock="10:30:46"
+			time="00:11.592"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 1320 units.
+			</message>
+			<metainfo
+				itemindex="12"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="130"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.898"
+			timeRelativeToTestModuleStartTime="00:11.898"
+			timeWallClock="10:30:47"
+			time="00:11.898"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'ok tim {Return}' with focus on 'ApplicationUnderTest.Stimulus'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="134"
+				itemindex="13"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.159"
+			timeRelativeToTestModuleStartTime="00:12.159"
+			timeWallClock="10:30:47"
+			time="00:12.159"
+			level="Info"
+			category="Keyboard"
+			errimg="images_Recordin_535e9871\Recordin_535e9871_861fd51b_trace.jpg"
+			errthumb="images_Recordin_535e9871\Recordin_535e9871_861fd51b_trace_thumb.jpg">
+			<message>
+				Key sequence 'ups sorry{Return}' with focus on 'ApplicationUnderTest.Stimulus'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+				itempath=".//form[#'avatarform']/input[@name='stimulus']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Stimulus"
+				id="29d1c4f15fec4dc6b092310293047890"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="138"
+				itemindex="14"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.464"
+			timeRelativeToTestModuleStartTime="00:12.464"
+			timeWallClock="10:30:47"
+			time="00:12.464"
+			level="Info"
+			category="Mouse"
+			errimg="images_Recordin_535e9871\Recordin_535e9871_9ba6b6ec_trace.jpg"
+			errthumb="images_Recordin_535e9871\Recordin_535e9871_9ba6b6ec_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.CbavatarasrCbnotsignedinPageOtherPag' at 751;369.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']/body"
+				itempath="body"
+				fullname="cleverTestRepository.ApplicationUnderTest.CbavatarasrCbnotsignedinPageOtherPag"
+				id="df31dec0ea9b40c6a9aeb3408cf3ac9d"
+				timeout="60000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="142"
+				itemindex="15"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.628"
+			timeRelativeToTestModuleStartTime="00:12.628"
+			timeWallClock="10:30:47"
+			time="00:12.628"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_535e9871\Recordin_535e9871_0a7c7823_trace.jpg"
+			errthumb="images_Recordin_535e9871\Recordin_535e9871_0a7c7823_trace_thumb.jpg">
+			<message>
+				Failed to move to location '751;369' within element '{BodyTag:cbavatarasr cbnotsignedin page-other pagetype-home}'.<br/>The pointer cannot be moved to point '{X=751,Y=-299}' since it is outside of the visible desktop.
+			</message>
+			<metainfo
+				stacktrace="   konum: Ranorex.Mouse.MoveTo(Element element, Location location, Duration moveTime)
+   konum: Ranorex.Mouse.Click(Element element, MouseButtons buttons, Location location, Int32 times, Duration moveTime)
+   konum: Ranorex.Adapter.Click(MouseButtons buttons, Location location, Int32 times, Duration moveTime, Boolean showOutOfBoundsWarning)
+   konum: Ranorex.Adapter.Click(Location location)
+   konum: cleverTest.Recording1.Ranorex.Core.Testing.ITestModule.Run() c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs içinde: satır 143
+   konum: Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\Recording1.cs"
+				codeline="143"
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']/body"
+				itempath="body"
+				fullname="cleverTestRepository.ApplicationUnderTest.CbavatarasrCbnotsignedinPageOtherPag"
+				id="df31dec0ea9b40c6a9aeb3408cf3ac9d"
+				timeout="60000"
+				loglvl="Error"
+				itemindex="15">
+			</metainfo>
+		</item>
+	</activity>
+</report>

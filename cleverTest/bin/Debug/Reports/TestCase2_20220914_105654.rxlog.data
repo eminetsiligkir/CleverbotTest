@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="49.95s"
+		durationms="49953"
+		type="root"
+		rid="28f0f15d1b7c1c3e"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="giare"
+		rxversion="10.2.3.0"
+		host="LAPTOP-ST6BFGHD"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="14.09.2022 10:57:00"
+		timestampiso="2022-09-14T07:57:00"
+		endtime="14.09.2022 10:57:50"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="TestCase2">
+		<detail>
+			TestCase2
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:25.063"
+			timeRelativeToTestModuleStartTime="00:25.063"
+			timeWallClock="10:57:25"
+			time="00:25.063"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest' at 1183;230.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']"
+				itempath="/dom[@domain='www.cleverbot.com']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Self"
+				id="6efc916c16484a16b73f7fc3f2143196"
+				timeout="30000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:31.249"
+			timeRelativeToTestModuleStartTime="00:31.249"
+			timeWallClock="10:57:31"
+			time="00:31.249"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Avatarform1.Thinkaboutitbutton' at 100;26.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkaboutitbutton']"
+				itempath="input[@name='thinkaboutitbutton']"
+				fullname="cleverTestRepository.ApplicationUnderTest.Avatarform1.Thinkaboutitbutton"
+				id="674cc377ad0046e997a70f414550d911"
+				timeout="90000"
+				codefile="c:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\TestCase2.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:49.950"
+			timeRelativeToTestModuleStartTime="00:49.950"
+			timeWallClock="10:57:50"
+			time="00:49.950"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

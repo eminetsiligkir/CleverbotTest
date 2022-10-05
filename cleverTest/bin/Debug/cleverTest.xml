@@ -1,0 +1,1151 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cleverTest</name>
+    </assembly>
+    <members>
+        <member name="T:cleverTest.BtnClick0">
+             <summary>
+            The BtnClick0 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick0.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick0.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick0.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick0.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick0.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick0.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick0.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick2">
+             <summary>
+            The BtnClick2 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick2.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick2.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick2.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick2.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick2.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick2.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick2.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick3">
+             <summary>
+            The BtnClick3 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick3.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick3.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick3.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick3.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick3.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick3.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick3.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick4">
+             <summary>
+            The BtnClick4 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick4.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick4.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick4.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick4.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick4.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick4.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick4.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick5">
+             <summary>
+            The BtnClick5 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick5.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick5.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick5.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick5.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick5.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick5.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick5.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick6">
+             <summary>
+            The BtnClick6 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick6.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick6.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick6.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick6.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick6.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick6.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick6.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick7">
+             <summary>
+            The BtnClick7 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick7.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick7.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick7.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick7.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick7.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick7.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick7.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick8">
+             <summary>
+            The BtnClick8 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick8.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick8.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick8.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick8.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick8.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick8.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick8.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick9">
+             <summary>
+            The BtnClick9 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick9.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick9.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick9.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick9.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick9.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick9.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick9.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.ChatWord0">
+             <summary>
+            The ChatWord0 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.ChatWord0.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord0.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord0.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.ChatWord0.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord0.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.ChatWord0.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.ChatWord0.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.ChatWord1">
+             <summary>
+            The ChatWord1 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.ChatWord1.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.ChatWord1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.ChatWord1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.ChatWord1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.ChatWord2">
+             <summary>
+            The ChatWord2 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.ChatWord2.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord2.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord2.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.ChatWord2.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord2.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.ChatWord2.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.ChatWord2.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.ChatWord3">
+             <summary>
+            The ChatWord3 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.ChatWord3.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord3.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord3.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.ChatWord3.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord3.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.ChatWord3.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.ChatWord3.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.ChatWord4">
+             <summary>
+            The ChatWord4 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.ChatWord4.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord4.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord4.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.ChatWord4.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord4.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.ChatWord4.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.ChatWord4.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.ChatWord5">
+             <summary>
+            The ChatWord5 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.ChatWord5.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord5.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord5.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.ChatWord5.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord5.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.ChatWord5.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.ChatWord5.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.ChatWord6">
+             <summary>
+            The ChatWord6 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.ChatWord6.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord6.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord6.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.ChatWord6.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord6.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.ChatWord6.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.ChatWord6.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.ChatWord7">
+             <summary>
+            The ChatWord7 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.ChatWord7.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord7.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord7.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.ChatWord7.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.ChatWord7.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.ChatWord7.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.ChatWord7.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.cleverTestRepository">
+            <summary>
+            The class representing the cleverTestRepository element repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.cleverTestRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the cleverTestRepository element repository.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepository.ApplicationUnderTest">
+            <summary>
+            The ApplicationUnderTest folder.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepository.CleverbotComACleverBotSpeakTo">
+            <summary>
+            The CleverbotComACleverBotSpeakTo folder.
+            </summary>
+        </member>
+        <member name="T:cleverTest.cleverTestRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder">
+            <summary>
+            The ApplicationUnderTestAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ApplicationUnderTest  folder.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Submit">
+            <summary>
+            The Submit item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.SubmitInfo">
+            <summary>
+            The Submit item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Stimulus">
+            <summary>
+            The Stimulus item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.StimulusInfo">
+            <summary>
+            The Stimulus item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Actionsicon">
+            <summary>
+            The Actionsicon item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.ActionsiconInfo">
+            <summary>
+            The Actionsicon item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.CbavatarasrCbnotsignedinPageOtherPag">
+            <summary>
+            The CbavatarasrCbnotsignedinPageOtherPag item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.CbavatarasrCbnotsignedinPageOtherPagInfo">
+            <summary>
+            The CbavatarasrCbnotsignedinPageOtherPag item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Conversationcontainer">
+            <summary>
+            The Conversationcontainer item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.ConversationcontainerInfo">
+            <summary>
+            The Conversationcontainer item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Wrapper">
+            <summary>
+            The Wrapper item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.WrapperInfo">
+            <summary>
+            The Wrapper item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Thinkformebutton">
+            <summary>
+            The Thinkformebutton item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.ThinkformebuttonInfo">
+            <summary>
+            The Thinkformebutton item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.HowManyZenMastersDoesItTakeToScr">
+            <summary>
+            The HowManyZenMastersDoesItTakeToScr item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.HowManyZenMastersDoesItTakeToScrInfo">
+            <summary>
+            The HowManyZenMastersDoesItTakeToScr item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.ILoveYou">
+            <summary>
+            The ILoveYou item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.ILoveYouInfo">
+            <summary>
+            The ILoveYou item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.WhatIsYourName">
+            <summary>
+            The WhatIsYourName item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.WhatIsYourNameInfo">
+            <summary>
+            The WhatIsYourName item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.DoYouLikeCats">
+            <summary>
+            The DoYouLikeCats item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.DoYouLikeCatsInfo">
+            <summary>
+            The DoYouLikeCats item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.ILikeYou">
+            <summary>
+            The ILikeYou item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.ILikeYouInfo">
+            <summary>
+            The ILikeYou item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.OnWhat">
+            <summary>
+            The OnWhat item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.OnWhatInfo">
+            <summary>
+            The OnWhat item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.IAm">
+            <summary>
+            The IAm item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.IAmInfo">
+            <summary>
+            The IAm item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Yes">
+            <summary>
+            The Yes item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.YesInfo">
+            <summary>
+            The Yes item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Content">
+            <summary>
+            The Content item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.ContentInfo">
+            <summary>
+            The Content item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.ApplicationUnderTestAppFolder.Avatarform1">
+            <summary>
+            The Avatarform1 folder.
+            </summary>
+        </member>
+        <member name="T:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder">
+            <summary>
+            The Avatarform1Folder folder.
+            </summary>
+        </member>
+        <member name="M:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Avatarform1  folder.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.Avatarform">
+            <summary>
+            The Avatarform item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.AvatarformInfo">
+            <summary>
+            The Avatarform item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.Thinkaboutitbutton">
+            <summary>
+            The Thinkaboutitbutton item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.ThinkaboutitbuttonInfo">
+            <summary>
+            The Thinkaboutitbutton item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.Thoughtssofarbutton">
+            <summary>
+            The Thoughtssofarbutton item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.Avatarform1Folder.ThoughtssofarbuttonInfo">
+            <summary>
+            The Thoughtssofarbutton item info.
+            </summary>
+        </member>
+        <member name="T:cleverTest.cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder">
+            <summary>
+            The CleverbotComACleverBotSpeakToAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:cleverTest.cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new CleverbotComACleverBotSpeakTo  folder.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder.YenidenYuekle">
+            <summary>
+            The YenidenYuekle item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder.YenidenYuekleInfo">
+            <summary>
+            The YenidenYuekle item info.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder.Pane">
+            <summary>
+            The Pane item.
+            </summary>
+        </member>
+        <member name="P:cleverTest.cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder.PaneInfo">
+            <summary>
+            The Pane item info.
+            </summary>
+        </member>
+        <member name="T:cleverTest.CloseBrowser">
+             <summary>
+            The CloseBrowser recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.CloseBrowser.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.CloseBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.CloseBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.CloseBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.CloseBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.CloseBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.CloseBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.OpenBrowser">
+             <summary>
+            The OpenBrowser recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.OpenBrowser.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.OpenBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.OpenBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.OpenBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.OpenBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.OpenBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.OpenBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.SubmitIntro">
+             <summary>
+            The SubmitIntro recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.SubmitIntro.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.SubmitIntro.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.SubmitIntro.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.SubmitIntro.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.SubmitIntro.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.SubmitIntro.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.SubmitIntro.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:cleverTest.BtnClick1">
+             <summary>
+            The BtnClick1 recording.
+             </summary>
+        </member>
+        <member name="F:cleverTest.BtnClick1.repo">
+            <summary>
+            Holds an instance of the cleverTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:cleverTest.BtnClick1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:cleverTest.BtnClick1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:cleverTest.BtnClick1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:cleverTest.BtnClick1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>
