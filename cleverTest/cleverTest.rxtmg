@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="cleverTest"
+      id="998193a3-e1f4-4a51-b7e5-974f9f04d7c2"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="cleverTest"
+      id="998193a3-e1f4-4a51-b7e5-974f9f04d7c2"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

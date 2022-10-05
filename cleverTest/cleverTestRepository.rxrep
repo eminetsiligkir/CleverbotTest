@@ -1,0 +1,302 @@
+﻿<repository
+id="88df7e0d-beb1-42b5-8139-9a75fcfb2298"
+name="cleverTestRepository">
+	<codegen
+	classname="cleverTestRepository"
+	namespace="cleverTest">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="3e59f2a4-37ba-47ba-933d-502faca92c47"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="6efc916c-1648-4a16-b73f-7fc3f2143196"
+		isrooted="True"
+		name="ApplicationUnderTest"
+		refimgid="f736a477-0f3a-454a-b895-20004d29b9ee"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="unknown,webelement,inputtag"
+			capname="inputtag"
+			id="9b4dd66a-49f1-40aa-90cf-f2ff74d69f25"
+			name="Submit"
+			refimgid="f600ed46-7aa3-4cab-b554-b1509680c479"
+			robustPath="/dom[@domain='www.cleverbot.com']//div[#'noteb']/?/?/input[@type='submit']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//div[#'noteb']/form[@action='javascript:noteok()']/input[@type='submit']
+			</item>
+			<item
+			addcaps="unknown,webelement,inputtag"
+			capname="inputtag"
+			id="29d1c4f1-5fec-4dc6-b092-310293047890"
+			name="Stimulus"
+			refimgid="88531ddf-cb38-491f-b658-7cffda5f69d9"
+			robustPath="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='stimulus']
+			</item>
+			<item
+			addcaps="unknown,webelement,imgtag"
+			capname="imgtag"
+			id="7602f8a6-f64c-4dbf-b86c-981d7931cac5"
+			name="Actionsicon"
+			refimgid="a851c12b-87fb-4f60-abdb-425cb5e4d631"
+			robustPath="/dom[@domain='www.cleverbot.com']//img[#'actionsicon']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//img[#'actionsicon']
+			</item>
+			<item
+			addcaps="unknown,webelement,bodytag"
+			capname="bodytag"
+			id="df31dec0-ea9b-40c6-a9ae-b3408cf3ac9d"
+			name="CbavatarasrCbnotsignedinPageOtherPag"
+			refimgid="853934a8-8f3b-4f7d-bc0c-8c8f3c850c60"
+			robustPath="/dom[@domain='www.cleverbot.com']/body"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']/body
+			</item>
+			<item
+			addcaps="unknown,webelement,divtag"
+			capname="divtag"
+			id="09e0b013-560e-4fd7-a0df-ab0e54eb4c08"
+			name="Conversationcontainer"
+			refimgid="a29f8f81-9733-4e9d-8bef-acb32b162a93"
+			robustPath="/dom[@domain='www.cleverbot.com']//div[#'conversationcontainer']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//div[#'conversationcontainer']
+			</item>
+			<item
+			addcaps="unknown,webelement,divtag"
+			capname="divtag"
+			id="5242ef68-4f98-47a0-a289-704d1e534592"
+			name="Wrapper"
+			refimgid="076795a9-6577-43f4-91e1-ae07f0c4bac7"
+			robustPath="/dom[@domain='www.cleverbot.com']//div[#'wrapper']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//div[#'wrapper']
+			</item>
+			<item
+			addcaps="unknown,webelement,inputtag"
+			capname="inputtag"
+			id="a8287659-41ff-4a99-b957-6ffdf1c4586e"
+			name="Thinkformebutton"
+			refimgid="77f1cad4-8362-4e7e-9353-f90fc38cb19e"
+			robustPath="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="9dd73969-32f2-4cbc-b840-2eb5970daf3c"
+			name="HowManyZenMastersDoesItTakeToScr"
+			refimgid="eea30fd8-4a19-4a57-a870-5f8381c85b57"
+			robustPath="/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext>'How many Zen masters does']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext&gt;'How many Zen masters does']
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="ba6679ad-97b1-43a7-a111-c02d264fec75"
+			name="ILoveYou"
+			refimgid="e976eae4-7f6a-44cd-8a0c-1a5d5d3ff0a5"
+			robustPath="/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='I love you.']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='I love you.']
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="c938376f-a4d3-479b-a351-8640aec043f5"
+			name="WhatIsYourName"
+			refimgid="c9b46e68-9e6a-47bd-8f7b-6ff69fe50613"
+			robustPath="/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='What is your name?']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='What is your name?']
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="6f0a32cd-6ece-4b9f-9d70-fbf73ecc038e"
+			name="DoYouLikeCats"
+			refimgid="25981082-fa61-47d0-aa49-6f01fb07197f"
+			robustPath="/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='Do you like Cats?']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='Do you like Cats?']
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="91965173-d3e9-42c3-8253-b44efdfd7eeb"
+			name="ILikeYou"
+			refimgid="e87daada-9c2b-48c1-9cd4-6b62ca0f4db2"
+			robustPath="/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='I like you!']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='I like you!']
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="3c322760-025e-4e93-851a-f5010595f49c"
+			name="OnWhat"
+			refimgid="a7616cb7-a120-4bb4-8991-dee451db6285"
+			robustPath="/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='On what?']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='On what?']
+			</item>
+			<folder
+			addcaps="unknown,webelement,formtag"
+			capname="form"
+			id="86ee0450-0f03-473c-9736-46eded4c43f6"
+			isrooted="True"
+			name="Avatarform1"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="unknown,webelement,formtag"
+				capname="formtag"
+				id="a0d003df-3a47-432a-b8b1-427d97510517"
+				name="Avatarform"
+				refimgid="d2875ddf-a4a6-4bec-841f-245407768f32"
+				robustPath="/dom[@domain='www.cleverbot.com']//form[#'avatarform']"
+				searchtimeout="30000ms">
+					/dom[@domain='www.cleverbot.com']//form[#'avatarform']
+				</item>
+				<item
+				addcaps="unknown,webelement,inputtag"
+				capname="inputtag"
+				id="674cc377-ad00-46e9-97a7-0f414550d911"
+				name="Thinkaboutitbutton"
+				refimgid="80459345-4ff0-4a91-9972-f4dd630fe0e8"
+				robustPath="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkaboutitbutton']"
+				searchtimeout="30000ms">
+					/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkaboutitbutton']
+				</item>
+				<item
+				addcaps="unknown,webelement,inputtag"
+				capname="inputtag"
+				id="9b190245-93e5-41dd-a0bc-cf9267557167"
+				name="Thoughtssofarbutton"
+				refimgid="ccfcfc8b-ee40-4b3a-aac6-ad79aeb29e91"
+				robustPath="/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thoughtssofarbutton']"
+				searchtimeout="30000ms">
+					/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thoughtssofarbutton']
+				</item>
+				<basepath>
+					/dom[@domain='www.cleverbot.com']//form[#'avatarform']
+				</basepath>
+			</folder>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="dcccbc89-3be1-43dd-a9e7-f0aacc8a994d"
+			name="IAm"
+			refimgid="2446eb69-07f5-480b-b7d6-3c1f969e86e1"
+			robustPath="/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='I am.']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='I am.']
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="89c4acf1-44e9-4736-bcb3-78d5a0f9e212"
+			name="Yes"
+			refimgid="6ceca744-704c-4ef0-af37-a4aa61559df4"
+			robustPath="/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='Yes.']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//p[#'line1']/span[@innertext='Yes.']
+			</item>
+			<item
+			addcaps="unknown,webelement,divtag"
+			capname="divtag"
+			id="aa81d5c5-604b-4b6a-8fe4-abe410bbce5b"
+			name="Content"
+			refimgid="66902a63-2631-4b32-8585-921b77e20af7"
+			robustPath="/dom[@domain='www.cleverbot.com']//div[#'content']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.cleverbot.com']//div[#'content']
+			</item>
+			<basepath>
+				/dom[@domain='www.cleverbot.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="caa09d7c-ae28-4883-ab42-649f54b9c8f4"
+		isrooted="True"
+		name="CleverbotComACleverBotSpeakTo"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="614f220d-3cf9-478e-9cd0-9d95e3cf5963"
+			name="YenidenYuekle"
+			refimgid="f2a44574-1c9a-4253-ac60-acbdef2e6e49"
+			robustPath="/form[@title>'Cleverbot.com - a clever bot']//button[@accessiblename='Yeniden Yükle']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Cleverbot.com - a clever bot']/container[@accessiblename&gt;'Cleverbot.com - a clever bot']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/button[@accessiblename='Yeniden Y&#252;kle']
+			</item>
+			<item
+			addcaps="container,accessible"
+			capname="container"
+			id="701b2d42-c510-41c5-8a0c-d663a30add0e"
+			name="Pane"
+			refimgid="74a4dcc8-48a4-46a5-9549-8815a74cd3d0"
+			robustPath="/form[@title>'Cleverbot.com - a clever bot']//tabpagelist/container[1]/container[2]"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Cleverbot.com - a clever bot']/container[@accessiblename&gt;'Como te llamas? - Google']/container[@accessiblename='Google Chrome']//tabpagelist[@accessiblerole='PageTabList']/container[1]/container[2]
+			</item>
+			<basepath>
+				/form[@title&gt;'Cleverbot.com - a clever bot']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAANzSURBVDhPrY5tTBN3AIfP+IovM7JsbQVadloG
+V2wPausNaA8pUjKNGZtkcXxaFmfiWOIcI1pGHZSXTragHQy60qhLJKLJUmFDWChj2gLOlzAHyzaZ
+rO0Z1LXFjE3thftlR+m3fd0veXL/u/yfJ0f8bysniOV2ktw4la9RXWdU1WM7qD6/nrot8vOonhoQ
+31tv6FTm46TkeZYgViS0pS3Kh9KlCt8O6kCQpYfvGXNmRP4WWRDB4pkz0LPBfM34DT1lfV8upbRa
+7cqEThDvUanJQwxVGTTQk5xRw4uXBa5IB64kD5xZZNd2IVQsfjNp+FCR+uFNVvXhJ9s3pyV0gqis
+ZPTf7dWNBAx0LJivRminDrNv7Ue4sRZRhw3RpteEiFUvhGs0QqRGLURt6qnIac3uCxfKl8cDBXWF
+TS2VRu5HEy38YaBxx9aIy+fHceLMNCyd0zjvuYW7V9vx2LtLeDKgEZ4MZkcffE21jnVnS+KBbXZT
+b0VzybzndQaBV0sFz1mf8LYzDJN9DsaGKPa3RdAzfBtzE4fBj+WC92fF7n2j9I+5lFnxQIadncj7
+vHShqtYszNRVw+r8DWxjFJqacBymLoKj5wIITbSCH9UidkWJoCc94O9S5MQDW5rYKZWrFIWuV4TB
+L+2ock0j3xZBtihnW8LItUZw8IsAZm45xAAN/ko6Qp40brRTlrsUaDB6M53mx7R7j3Do4hG0DE6i
+zBFGjjUMuvZPFJ8Iw9E7iQc/vAn+6hbEvk/huUuya+MdUioeIBsNDS86S7jMTjO07jJYvj2DY5d+
+QoUrgApnEM19v8I/7sa8T4fYiAz8iOSv2d7nuv1dUkU8ILcb8ra2mXwi/Nb2YjDucpT1fCAc7ncJ
+loGz4h99hOvenfjHK0XM+yz44U2/P+zbdGCwRbIuHkjdRyXLbXnV5GeF90lHERbJaC8W1M49Qo5z
+Lz7u0WJ6QIan3o1i4BnM9W/oOH1sfaaoLosHCJZYkfyyMivNxtQrTrK/yE8VzonPp+RJ40JBO4Mh
+z2Z+fmj9o9jQ2juP+td+aj+YpGcYImlJToyiqFWSfRkvyJsLylNsjDu1/iUfWa+7+45DGbrWveHm
+/a/WdEV6171x7uhqklUQaxLaf7aMOk6tSnl3W6rsiDZTUaWhLQ2y3MttK1WjHUkp/aeI1Yl7iRHE
+v7C0vdka4RSEAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
