@@ -4,48 +4,16 @@
 		<flatlistofchildren>
 			<testcase
 			id="06d4c4dc-7b7f-4fea-b5a0-cd4e5cadc262"
-			name="TestCase">
+			name="Button_Test">
 			</testcase>
-			<testmodule
-			id="07c0ba55-34c2-45e3-ab2f-ac843cb55d40"
-			name="ChatWord1"
-			ref="531fd772-ea69-47a7-b4fb-bf64e1eb275c"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="1a39a8da-155b-4551-bbf0-588f6a0e7952"
-			name="ChatWord0"
-			ref="bd083390-0a4a-471b-b40d-2aa9478ecd62"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="1ce1e9f5-b287-4284-8db1-0489a12241cb"
-			name="BtnClick5"
-			ref="aeadcf66-f06c-4b5b-ae49-056090668a79"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="1e4a457c-aa4b-4b81-ba45-c74c1841c8b7"
-			name="ChatWord2"
-			ref="3dfc50b8-ec24-4c94-8334-1a5c055e2f2d"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="20d728f1-773f-44e1-8737-bd150486826b"
-			name="ChatWord5"
-			ref="eb8c6d5a-f4de-46e8-81fa-e348284d53ee"
-			type="Recording">
-			</testmodule>
+			<testcase
+			id="210f6572-447d-48cb-8c02-69c6489d3c9c"
+			name="Listbutton_Test">
+			</testcase>
 			<testmodule
 			id="22771900-277d-4221-8537-4794deb85d11"
 			name="CloseBrowser"
 			ref="2be0e6b2-e350-4457-8732-62b17409b24c"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="26899abc-05bf-422e-9f4e-b79d18e3dc32"
-			name="ChatWord7"
-			ref="0bc42c6e-ead5-4f10-9403-890ad2606196"
 			type="Recording">
 			</testmodule>
 			<testsuite
@@ -56,85 +24,65 @@
 			VideoFps="15"
 			VideoRecordingMode="Off"
 			VideoSource="Auto"
-			createsinglereportpdfchecked="False"
 			enabletracingscreenshots="True"
 			id="2ca036ce-a377-4635-b3d7-9294fad712d6"
-			includeimageschecked="False"
-			includerecordingschecked="False"
 			junitreport="False"
 			name="cleverTest"
-			overwritefilechecked="False"
 			reportcompress="False"
 			reportdirectoryname="Reports"
 			reportenabled="True"
 			reportfilename="%S_%Y%M%D_%T.rxlog"
 			reporttemplatefolder=""
-			reportwriteinterval="30000ms"
-			singlereportpdfdirectory="SingleReportPDF">
+			reportwriteinterval="30000ms">
 			</testsuite>
 			<testmodule
-			id="507c3344-8383-4f49-b15b-c867eb1f167b"
-			name="BtnClick4"
-			ref="6be3b9c3-3042-4536-8c29-dc02692d8840"
-			type="Recording">
+			id="37ded585-7fac-4e74-8edb-e76346c47ab7"
+			name="BtnThinkaboutitCode"
+			ref="90366076-e6f6-4bd0-8c4c-2de97ed283af"
+			type="UserCode">
 			</testmodule>
 			<testmodule
-			id="563020b4-e49e-4f8e-a0a3-8ad72a336414"
-			name="BtnClick2"
-			ref="69dd68ca-8b07-4646-9bdc-df85e393a0d0"
+			id="499c45ab-be7f-45d1-9b40-d0d9428fe72b"
+			name="ChatWord"
+			ref="bd083390-0a4a-471b-b40d-2aa9478ecd62"
 			type="Recording">
+				<databinding>
+					<var
+					dataname="txtcheckbox"
+					datasourceid="8150604c-a6c6-426f-a741-71b54a683352"
+					variableid="09d2107e-7d71-4579-bdec-f4bd61691cbb"
+					variablename="txtcheckbox">
+					</var>
+				</databinding>
 			</testmodule>
-			<testmodule
-			id="5f1cca2d-0286-450a-a8df-0f499cf03fd3"
-			name="BtnClick1"
-			ref="397077b5-6347-464c-a729-0e969303c98a"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="629265c6-5157-4e14-a593-7f78be4f6e14"
-			name="BtnClick6"
-			ref="1f492940-df3d-4e52-8747-e82179f09497"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="673e34a9-765b-4540-aab0-b614314720e3"
-			name="BtnClick9"
-			ref="2a85af57-fbcf-4fbd-a2f5-d79db325c813"
-			type="Recording">
-			</testmodule>
+			<testcase
+			datasource="myTestData"
+			id="6cf8483d-161d-4e6e-a99e-de344678fa2a"
+			name="Data-Driven_DB_Test">
+			</testcase>
 			<testcase
 			id="7f72f1d6-cf5d-4934-8584-dd3ec851fb85"
 			name="cleverTest"
 			reportlevel="Info;20">
 			</testcase>
 			<testmodule
-			id="8c15a34a-6194-4f30-9288-4cce696aee23"
-			name="BtnClick0"
+			enabled="False"
+			id="903fe7ac-d05c-43ad-9f80-7f3a869a817b"
+			name="BtnThinkforme"
+			ref="c9b82d92-696b-4e56-9064-581217d00831"
+			type="Recording">
+			</testmodule>
+			<testmodule
+			enabled="False"
+			id="94e25c6a-64e0-4ad1-ad13-a6b0e1e799bd"
+			name="BtnThinkaboutit"
 			ref="95f20360-57d7-4c4d-ac84-f721f46a7947"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="8d6ae81d-d1f3-478e-a3e3-f1d58b064434"
-			name="ChatWord3"
-			ref="3b2a8d20-62d6-414a-8e37-e3f7a92bb798"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="9c3e4f1a-d6cf-4f96-95bf-2e2749590ebe"
-			name="BtnClick3"
-			ref="d7c9e1d8-ef51-4a1d-946a-0d7bc5dfb779"
 			type="Recording">
 			</testmodule>
 			<testmodule
 			id="9d7adafd-58d4-429a-b18f-b2e763bb3fb0"
 			name="SubmitIntro"
 			ref="6bf29a5b-cd99-4c49-b958-c4455357dbdc"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="a3093a5b-5f41-44f7-845c-3d9f0026fb60"
-			name="ChatWord6"
-			ref="f0b24b17-6dce-48f9-925e-de1dc0fba167"
 			type="Recording">
 			</testmodule>
 			<teardown
@@ -146,33 +94,21 @@
 			name="setup">
 			</setup>
 			<testmodule
-			id="c8613428-374f-412a-9ce1-cae929355e66"
-			name="BtnClick7"
-			ref="e9e912c9-9241-4185-8b77-434dd7d3342d"
-			type="Recording">
+			id="ca3b3bda-8e5c-4a03-aab9-4c6effe4c952"
+			name="BtnThinkformeCode"
+			ref="ca622d00-12e2-48c4-9b9a-1d3b25691d4d"
+			type="UserCode">
 			</testmodule>
 			<testmodule
-			id="d2709a13-77c9-4606-8130-20f1e8c8ba92"
-			name="BtnClick9"
-			ref="2a85af57-fbcf-4fbd-a2f5-d79db325c813"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="debfad96-201b-4938-aeb5-fe18572f66c0"
-			name="ChatWord4"
-			ref="dd6775a4-1013-46f9-90d5-9aec015bf378"
+			id="e28b4030-c824-4ec8-b9f0-646ca66e226d"
+			name="BtnList"
+			ref="242e9f70-d31f-4fd4-8b58-f97585934c2d"
 			type="Recording">
 			</testmodule>
 			<testmodule
 			id="eace3d71-035c-4233-bbb6-2f76561e2289"
 			name="OpenBrowser"
 			ref="fbdfc588-aa84-4da1-83ef-5ff17685ef63"
-			type="Recording">
-			</testmodule>
-			<testmodule
-			id="fc5a5c49-cf0f-4d04-bd28-6015ca9a8223"
-			name="BtnClick8"
-			ref="22a0502f-86c2-4555-abb5-b189e667f474"
 			type="Recording">
 			</testmodule>
 		</flatlistofchildren>
@@ -183,111 +119,84 @@
 				<testcase
 				id="7f72f1d6-cf5d-4934-8584-dd3ec851fb85"
 				name="cleverTest">
-					<testcase
-					id="06d4c4dc-7b7f-4fea-b5a0-cd4e5cadc262"
-					name="TestCase">
-						<setup
-						id="c06124ec-a2fe-452d-abb8-cdb3931bb024"
-						name="setup">
-							<testmodule
-							id="eace3d71-035c-4233-bbb6-2f76561e2289"
-							name="OpenBrowser">
-							</testmodule>
-						</setup>
+					<setup
+					id="c06124ec-a2fe-452d-abb8-cdb3931bb024"
+					name="setup">
+						<testmodule
+						id="eace3d71-035c-4233-bbb6-2f76561e2289"
+						name="OpenBrowser">
+						</testmodule>
 						<testmodule
 						id="9d7adafd-58d4-429a-b18f-b2e763bb3fb0"
 						name="SubmitIntro">
 						</testmodule>
+					</setup>
+					<testcase
+					id="6cf8483d-161d-4e6e-a99e-de344678fa2a"
+					name="Data-Driven_DB_Test">
 						<testmodule
-						id="1a39a8da-155b-4551-bbf0-588f6a0e7952"
-						name="ChatWord0">
+						id="499c45ab-be7f-45d1-9b40-d0d9428fe72b"
+						name="ChatWord">
 						</testmodule>
-						<testmodule
-						id="07c0ba55-34c2-45e3-ab2f-ac843cb55d40"
-						name="ChatWord1">
-						</testmodule>
-						<testmodule
-						id="1e4a457c-aa4b-4b81-ba45-c74c1841c8b7"
-						name="ChatWord2">
-						</testmodule>
-						<testmodule
-						id="8d6ae81d-d1f3-478e-a3e3-f1d58b064434"
-						name="ChatWord3">
-						</testmodule>
-						<testmodule
-						id="debfad96-201b-4938-aeb5-fe18572f66c0"
-						name="ChatWord4">
-						</testmodule>
-						<testmodule
-						id="20d728f1-773f-44e1-8737-bd150486826b"
-						name="ChatWord5">
-						</testmodule>
-						<testmodule
-						id="a3093a5b-5f41-44f7-845c-3d9f0026fb60"
-						name="ChatWord6">
-						</testmodule>
-						<testmodule
-						id="26899abc-05bf-422e-9f4e-b79d18e3dc32"
-						name="ChatWord7">
-						</testmodule>
-						<testmodule
-						id="8c15a34a-6194-4f30-9288-4cce696aee23"
-						name="BtnClick0">
-						</testmodule>
-						<testmodule
-						id="5f1cca2d-0286-450a-a8df-0f499cf03fd3"
-						name="BtnClick1">
-						</testmodule>
-						<testmodule
-						id="563020b4-e49e-4f8e-a0a3-8ad72a336414"
-						name="BtnClick2">
-						</testmodule>
-						<testmodule
-						id="d2709a13-77c9-4606-8130-20f1e8c8ba92"
-						name="BtnClick9">
-						</testmodule>
-						<testmodule
-						id="9c3e4f1a-d6cf-4f96-95bf-2e2749590ebe"
-						name="BtnClick3">
-						</testmodule>
-						<testmodule
-						id="507c3344-8383-4f49-b15b-c867eb1f167b"
-						name="BtnClick4">
-						</testmodule>
-						<testmodule
-						id="1ce1e9f5-b287-4284-8db1-0489a12241cb"
-						name="BtnClick5">
-						</testmodule>
-						<testmodule
-						id="c8613428-374f-412a-9ce1-cae929355e66"
-						name="BtnClick7">
-						</testmodule>
-						<testmodule
-						id="629265c6-5157-4e14-a593-7f78be4f6e14"
-						name="BtnClick6">
-						</testmodule>
-						<testmodule
-						id="fc5a5c49-cf0f-4d04-bd28-6015ca9a8223"
-						name="BtnClick8">
-						</testmodule>
-						<testmodule
-						id="673e34a9-765b-4540-aab0-b614314720e3"
-						name="BtnClick9">
-						</testmodule>
-						<teardown
-						id="bc83b597-1901-4a66-8128-8b6e76d1ad9b"
-						name="teardown">
-							<testmodule
-							id="22771900-277d-4221-8537-4794deb85d11"
-							name="CloseBrowser">
-							</testmodule>
-						</teardown>
 					</testcase>
+					<testcase
+					id="06d4c4dc-7b7f-4fea-b5a0-cd4e5cadc262"
+					name="Button_Test">
+						<testmodule
+						id="94e25c6a-64e0-4ad1-ad13-a6b0e1e799bd"
+						name="BtnThinkaboutit">
+						</testmodule>
+						<testmodule
+						id="37ded585-7fac-4e74-8edb-e76346c47ab7"
+						name="BtnThinkaboutitCode">
+						</testmodule>
+						<testmodule
+						id="903fe7ac-d05c-43ad-9f80-7f3a869a817b"
+						name="BtnThinkforme">
+						</testmodule>
+						<testmodule
+						id="ca3b3bda-8e5c-4a03-aab9-4c6effe4c952"
+						name="BtnThinkformeCode">
+						</testmodule>
+					</testcase>
+					<testcase
+					id="210f6572-447d-48cb-8c02-69c6489d3c9c"
+					name="Listbutton_Test">
+						<testmodule
+						id="e28b4030-c824-4ec8-b9f0-646ca66e226d"
+						name="BtnList">
+						</testmodule>
+					</testcase>
+					<teardown
+					id="bc83b597-1901-4a66-8128-8b6e76d1ad9b"
+					name="teardown">
+						<testmodule
+						id="22771900-277d-4221-8537-4794deb85d11"
+						name="CloseBrowser">
+						</testmodule>
+					</teardown>
 				</testcase>
 			</testsuite>
 		</childhierarchy>
 	</testsuiteentryhierarchy>
 	<datasources>
+		<DataSource
+		filename="C:\Users\giare\OneDrive\Documents\Ranorex\RanorexStudio Projects\cleverTest\cleverTest\RxTestDatabase.xlsx"
+		id="8150604c-a6c6-426f-a741-71b54a683352"
+		includefile="Unchecked"
+		lastknownrowcount="10"
+		name="myTestData"
+		type="Ranorex.Core.Data.ExcelDataConnector"
+		worksheetname="Sayfa1"
+		worksheetrange="Auto-Range">
+			<lastknowncolumns>
+				<column>
+					txtcheckbox
+				</column>
+			</lastknowncolumns>
+			<maskedcolumns>
+			</maskedcolumns>
+		</DataSource>
 	</datasources>
 	<testconfigurations
 	default="TestRun">
@@ -295,6 +204,12 @@
 		name="TestRun">
 			<testcontainer
 			id="06d4c4dc-7b7f-4fea-b5a0-cd4e5cadc262">
+			</testcontainer>
+			<testcontainer
+			id="210f6572-447d-48cb-8c02-69c6489d3c9c">
+			</testcontainer>
+			<testcontainer
+			id="6cf8483d-161d-4e6e-a99e-de344678fa2a">
 			</testcontainer>
 			<testcontainer
 			id="7f72f1d6-cf5d-4934-8584-dd3ec851fb85">

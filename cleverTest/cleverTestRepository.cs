@@ -29,6 +29,7 @@ namespace cleverTest
         static cleverTestRepository instance = new cleverTestRepository();
         cleverTestRepositoryFolders.ApplicationUnderTestAppFolder _applicationundertest;
         cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder _cleverbotcomacleverbotspeakto;
+        cleverTestRepositoryFolders.ExplorerAppFolder _explorer;
 
         /// <summary>
         /// Gets the singleton class instance representing the cleverTestRepository element repository.
@@ -47,6 +48,7 @@ namespace cleverTest
         {
             _applicationundertest = new cleverTestRepositoryFolders.ApplicationUnderTestAppFolder(this);
             _cleverbotcomacleverbotspeakto = new cleverTestRepositoryFolders.CleverbotComACleverBotSpeakToAppFolder(this);
+            _explorer = new cleverTestRepositoryFolders.ExplorerAppFolder(this);
         }
 
 #region Variables
@@ -82,6 +84,15 @@ namespace cleverTest
         {
             get { return _cleverbotcomacleverbotspeakto; }
         }
+
+        /// <summary>
+        /// The Explorer folder.
+        /// </summary>
+        [RepositoryFolder("8ff5d3b2-bbe2-43f3-be78-314a08ff9e2d")]
+        public virtual cleverTestRepositoryFolders.ExplorerAppFolder Explorer
+        {
+            get { return _explorer; }
+        }
     }
 
     /// <summary>
@@ -104,15 +115,14 @@ namespace cleverTest
             RepoItemInfo _conversationcontainerInfo;
             RepoItemInfo _wrapperInfo;
             RepoItemInfo _thinkformebuttonInfo;
-            RepoItemInfo _howmanyzenmastersdoesittaketoscrInfo;
-            RepoItemInfo _iloveyouInfo;
-            RepoItemInfo _whatisyournameInfo;
-            RepoItemInfo _doyoulikecatsInfo;
-            RepoItemInfo _ilikeyouInfo;
-            RepoItemInfo _onwhatInfo;
             RepoItemInfo _iamInfo;
             RepoItemInfo _yesInfo;
             RepoItemInfo _contentInfo;
+            RepoItemInfo _actionslinesInfo;
+            RepoItemInfo _actionsnewInfo;
+            RepoItemInfo _javascriptnoteokInfo;
+            RepoItemInfo _someselecttagInfo;
+            RepoItemInfo _continuethisconversationnextvisitInfo;
 
             /// <summary>
             /// Creates a new ApplicationUnderTest  folder.
@@ -122,21 +132,20 @@ namespace cleverTest
             {
                 _avatarform1 = new cleverTestRepositoryFolders.Avatarform1Folder(this);
                 _submitInfo = new RepoItemInfo(this, "Submit", ".//div[#'noteb']/form[@action='javascript:noteok()']/input[@type='submit']", ".//div[#'noteb']/?/?/input[@type='submit']", 30000, null, "9b4dd66a-49f1-40aa-90cf-f2ff74d69f25");
-                _stimulusInfo = new RepoItemInfo(this, "Stimulus", ".//form[#'avatarform']/input[@name='stimulus']", ".//form[#'avatarform']/input[@name='stimulus']", 30000, null, "29d1c4f1-5fec-4dc6-b092-310293047890");
+                _stimulusInfo = new RepoItemInfo(this, "Stimulus", ".//form[#'avatarform']/input[@name='Stimulus']", "", 30000, null, "29d1c4f1-5fec-4dc6-b092-310293047890");
                 _actionsiconInfo = new RepoItemInfo(this, "Actionsicon", ".//img[#'actionsicon']", ".//img[#'actionsicon']", 30000, null, "7602f8a6-f64c-4dbf-b86c-981d7931cac5");
                 _cbavatarasrcbnotsignedinpageotherpagInfo = new RepoItemInfo(this, "CbavatarasrCbnotsignedinPageOtherPag", "body", "body", 30000, null, "df31dec0-ea9b-40c6-a9ae-b3408cf3ac9d");
                 _conversationcontainerInfo = new RepoItemInfo(this, "Conversationcontainer", ".//div[#'conversationcontainer']", ".//div[#'conversationcontainer']", 30000, null, "09e0b013-560e-4fd7-a0df-ab0e54eb4c08");
                 _wrapperInfo = new RepoItemInfo(this, "Wrapper", ".//div[#'wrapper']", ".//div[#'wrapper']", 30000, null, "5242ef68-4f98-47a0-a289-704d1e534592");
                 _thinkformebuttonInfo = new RepoItemInfo(this, "Thinkformebutton", ".//form[#'avatarform']/input[@name='thinkformebutton']", ".//form[#'avatarform']/input[@name='thinkformebutton']", 30000, null, "a8287659-41ff-4a99-b957-6ffdf1c4586e");
-                _howmanyzenmastersdoesittaketoscrInfo = new RepoItemInfo(this, "HowManyZenMastersDoesItTakeToScr", ".//p[#'line1']/span[@innertext>'How many Zen masters does']", ".//p[#'line1']/span[@innertext>'How many Zen masters does']", 30000, null, "9dd73969-32f2-4cbc-b840-2eb5970daf3c");
-                _iloveyouInfo = new RepoItemInfo(this, "ILoveYou", ".//p[#'line1']/span[@innertext='I love you.']", ".//p[#'line1']/span[@innertext='I love you.']", 30000, null, "ba6679ad-97b1-43a7-a111-c02d264fec75");
-                _whatisyournameInfo = new RepoItemInfo(this, "WhatIsYourName", ".//p[#'line1']/span[@innertext='What is your name?']", ".//p[#'line1']/span[@innertext='What is your name?']", 30000, null, "c938376f-a4d3-479b-a351-8640aec043f5");
-                _doyoulikecatsInfo = new RepoItemInfo(this, "DoYouLikeCats", ".//p[#'line1']/span[@innertext='Do you like Cats?']", ".//p[#'line1']/span[@innertext='Do you like Cats?']", 30000, null, "6f0a32cd-6ece-4b9f-9d70-fbf73ecc038e");
-                _ilikeyouInfo = new RepoItemInfo(this, "ILikeYou", ".//p[#'line1']/span[@innertext='I like you!']", ".//p[#'line1']/span[@innertext='I like you!']", 30000, null, "91965173-d3e9-42c3-8253-b44efdfd7eeb");
-                _onwhatInfo = new RepoItemInfo(this, "OnWhat", ".//p[#'line1']/span[@innertext='On what?']", ".//p[#'line1']/span[@innertext='On what?']", 30000, null, "3c322760-025e-4e93-851a-f5010595f49c");
                 _iamInfo = new RepoItemInfo(this, "IAm", ".//p[#'line1']/span[@innertext='I am.']", ".//p[#'line1']/span[@innertext='I am.']", 30000, null, "dcccbc89-3be1-43dd-a9e7-f0aacc8a994d");
                 _yesInfo = new RepoItemInfo(this, "Yes", ".//p[#'line1']/span[@innertext='Yes.']", ".//p[#'line1']/span[@innertext='Yes.']", 30000, null, "89c4acf1-44e9-4736-bcb3-78d5a0f9e212");
                 _contentInfo = new RepoItemInfo(this, "Content", ".//div[#'content']", ".//div[#'content']", 30000, null, "aa81d5c5-604b-4b6a-8fe4-abe410bbce5b");
+                _actionslinesInfo = new RepoItemInfo(this, "Actionslines", ".//p[#'actionslines']", "", 30000, null, "968d6be9-2778-4753-80d4-3b0a16db8cba");
+                _actionsnewInfo = new RepoItemInfo(this, "Actionsnew", ".//p[#'actionsnew']", "", 30000, null, "dca3368c-a6a4-4eb0-8c90-cb9734f95901");
+                _javascriptnoteokInfo = new RepoItemInfo(this, "JavascriptNoteok", ".//div[#'noteb']/form[@action='javascript:noteok()']", "", 30000, null, "c9d6475f-14d1-4007-991e-0da1d8d6c0a8");
+                _someselecttagInfo = new RepoItemInfo(this, "SomeSelectTag", ".//div[#'actionsbox']/?/?/select", "", 30000, null, "42b8a463-90f5-4f46-bb39-a91ab31cc56e");
+                _continuethisconversationnextvisitInfo = new RepoItemInfo(this, "ContinueThisConversationNextVisit", ".//div[#'actionsbox']/?/?/label[@innertext>'Continue this conversation']", "", 30000, null, "717e2d7e-a779-4c89-86bd-3e4f1cbbd829");
             }
 
             /// <summary>
@@ -332,150 +341,6 @@ namespace cleverTest
             }
 
             /// <summary>
-            /// The HowManyZenMastersDoesItTakeToScr item.
-            /// </summary>
-            [RepositoryItem("9dd73969-32f2-4cbc-b840-2eb5970daf3c")]
-            public virtual Ranorex.SpanTag HowManyZenMastersDoesItTakeToScr
-            {
-                get
-                {
-                    return _howmanyzenmastersdoesittaketoscrInfo.CreateAdapter<Ranorex.SpanTag>(true);
-                }
-            }
-
-            /// <summary>
-            /// The HowManyZenMastersDoesItTakeToScr item info.
-            /// </summary>
-            [RepositoryItemInfo("9dd73969-32f2-4cbc-b840-2eb5970daf3c")]
-            public virtual RepoItemInfo HowManyZenMastersDoesItTakeToScrInfo
-            {
-                get
-                {
-                    return _howmanyzenmastersdoesittaketoscrInfo;
-                }
-            }
-
-            /// <summary>
-            /// The ILoveYou item.
-            /// </summary>
-            [RepositoryItem("ba6679ad-97b1-43a7-a111-c02d264fec75")]
-            public virtual Ranorex.SpanTag ILoveYou
-            {
-                get
-                {
-                    return _iloveyouInfo.CreateAdapter<Ranorex.SpanTag>(true);
-                }
-            }
-
-            /// <summary>
-            /// The ILoveYou item info.
-            /// </summary>
-            [RepositoryItemInfo("ba6679ad-97b1-43a7-a111-c02d264fec75")]
-            public virtual RepoItemInfo ILoveYouInfo
-            {
-                get
-                {
-                    return _iloveyouInfo;
-                }
-            }
-
-            /// <summary>
-            /// The WhatIsYourName item.
-            /// </summary>
-            [RepositoryItem("c938376f-a4d3-479b-a351-8640aec043f5")]
-            public virtual Ranorex.SpanTag WhatIsYourName
-            {
-                get
-                {
-                    return _whatisyournameInfo.CreateAdapter<Ranorex.SpanTag>(true);
-                }
-            }
-
-            /// <summary>
-            /// The WhatIsYourName item info.
-            /// </summary>
-            [RepositoryItemInfo("c938376f-a4d3-479b-a351-8640aec043f5")]
-            public virtual RepoItemInfo WhatIsYourNameInfo
-            {
-                get
-                {
-                    return _whatisyournameInfo;
-                }
-            }
-
-            /// <summary>
-            /// The DoYouLikeCats item.
-            /// </summary>
-            [RepositoryItem("6f0a32cd-6ece-4b9f-9d70-fbf73ecc038e")]
-            public virtual Ranorex.SpanTag DoYouLikeCats
-            {
-                get
-                {
-                    return _doyoulikecatsInfo.CreateAdapter<Ranorex.SpanTag>(true);
-                }
-            }
-
-            /// <summary>
-            /// The DoYouLikeCats item info.
-            /// </summary>
-            [RepositoryItemInfo("6f0a32cd-6ece-4b9f-9d70-fbf73ecc038e")]
-            public virtual RepoItemInfo DoYouLikeCatsInfo
-            {
-                get
-                {
-                    return _doyoulikecatsInfo;
-                }
-            }
-
-            /// <summary>
-            /// The ILikeYou item.
-            /// </summary>
-            [RepositoryItem("91965173-d3e9-42c3-8253-b44efdfd7eeb")]
-            public virtual Ranorex.SpanTag ILikeYou
-            {
-                get
-                {
-                    return _ilikeyouInfo.CreateAdapter<Ranorex.SpanTag>(true);
-                }
-            }
-
-            /// <summary>
-            /// The ILikeYou item info.
-            /// </summary>
-            [RepositoryItemInfo("91965173-d3e9-42c3-8253-b44efdfd7eeb")]
-            public virtual RepoItemInfo ILikeYouInfo
-            {
-                get
-                {
-                    return _ilikeyouInfo;
-                }
-            }
-
-            /// <summary>
-            /// The OnWhat item.
-            /// </summary>
-            [RepositoryItem("3c322760-025e-4e93-851a-f5010595f49c")]
-            public virtual Ranorex.SpanTag OnWhat
-            {
-                get
-                {
-                    return _onwhatInfo.CreateAdapter<Ranorex.SpanTag>(true);
-                }
-            }
-
-            /// <summary>
-            /// The OnWhat item info.
-            /// </summary>
-            [RepositoryItemInfo("3c322760-025e-4e93-851a-f5010595f49c")]
-            public virtual RepoItemInfo OnWhatInfo
-            {
-                get
-                {
-                    return _onwhatInfo;
-                }
-            }
-
-            /// <summary>
             /// The IAm item.
             /// </summary>
             [RepositoryItem("dcccbc89-3be1-43dd-a9e7-f0aacc8a994d")]
@@ -548,6 +413,126 @@ namespace cleverTest
             }
 
             /// <summary>
+            /// The Actionslines item.
+            /// </summary>
+            [RepositoryItem("968d6be9-2778-4753-80d4-3b0a16db8cba")]
+            public virtual Ranorex.PTag Actionslines
+            {
+                get
+                {
+                    return _actionslinesInfo.CreateAdapter<Ranorex.PTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The Actionslines item info.
+            /// </summary>
+            [RepositoryItemInfo("968d6be9-2778-4753-80d4-3b0a16db8cba")]
+            public virtual RepoItemInfo ActionslinesInfo
+            {
+                get
+                {
+                    return _actionslinesInfo;
+                }
+            }
+
+            /// <summary>
+            /// The Actionsnew item.
+            /// </summary>
+            [RepositoryItem("dca3368c-a6a4-4eb0-8c90-cb9734f95901")]
+            public virtual Ranorex.PTag Actionsnew
+            {
+                get
+                {
+                    return _actionsnewInfo.CreateAdapter<Ranorex.PTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The Actionsnew item info.
+            /// </summary>
+            [RepositoryItemInfo("dca3368c-a6a4-4eb0-8c90-cb9734f95901")]
+            public virtual RepoItemInfo ActionsnewInfo
+            {
+                get
+                {
+                    return _actionsnewInfo;
+                }
+            }
+
+            /// <summary>
+            /// The JavascriptNoteok item.
+            /// </summary>
+            [RepositoryItem("c9d6475f-14d1-4007-991e-0da1d8d6c0a8")]
+            public virtual Ranorex.FormTag JavascriptNoteok
+            {
+                get
+                {
+                    return _javascriptnoteokInfo.CreateAdapter<Ranorex.FormTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The JavascriptNoteok item info.
+            /// </summary>
+            [RepositoryItemInfo("c9d6475f-14d1-4007-991e-0da1d8d6c0a8")]
+            public virtual RepoItemInfo JavascriptNoteokInfo
+            {
+                get
+                {
+                    return _javascriptnoteokInfo;
+                }
+            }
+
+            /// <summary>
+            /// The SomeSelectTag item.
+            /// </summary>
+            [RepositoryItem("42b8a463-90f5-4f46-bb39-a91ab31cc56e")]
+            public virtual Ranorex.SelectTag SomeSelectTag
+            {
+                get
+                {
+                    return _someselecttagInfo.CreateAdapter<Ranorex.SelectTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The SomeSelectTag item info.
+            /// </summary>
+            [RepositoryItemInfo("42b8a463-90f5-4f46-bb39-a91ab31cc56e")]
+            public virtual RepoItemInfo SomeSelectTagInfo
+            {
+                get
+                {
+                    return _someselecttagInfo;
+                }
+            }
+
+            /// <summary>
+            /// The ContinueThisConversationNextVisit item.
+            /// </summary>
+            [RepositoryItem("717e2d7e-a779-4c89-86bd-3e4f1cbbd829")]
+            public virtual Ranorex.LabelTag ContinueThisConversationNextVisit
+            {
+                get
+                {
+                    return _continuethisconversationnextvisitInfo.CreateAdapter<Ranorex.LabelTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The ContinueThisConversationNextVisit item info.
+            /// </summary>
+            [RepositoryItemInfo("717e2d7e-a779-4c89-86bd-3e4f1cbbd829")]
+            public virtual RepoItemInfo ContinueThisConversationNextVisitInfo
+            {
+                get
+                {
+                    return _continuethisconversationnextvisitInfo;
+                }
+            }
+
+            /// <summary>
             /// The Avatarform1 folder.
             /// </summary>
             [RepositoryFolder("86ee0450-0f03-473c-9736-46eded4c43f6")]
@@ -566,6 +551,7 @@ namespace cleverTest
             RepoItemInfo _avatarformInfo;
             RepoItemInfo _thinkaboutitbuttonInfo;
             RepoItemInfo _thoughtssofarbuttonInfo;
+            RepoItemInfo _stimulusInfo;
 
             /// <summary>
             /// Creates a new Avatarform1  folder.
@@ -576,6 +562,7 @@ namespace cleverTest
                 _avatarformInfo = new RepoItemInfo(this, "Avatarform", "", "", 30000, null, "a0d003df-3a47-432a-b8b1-427d97510517");
                 _thinkaboutitbuttonInfo = new RepoItemInfo(this, "Thinkaboutitbutton", "input[@name='thinkaboutitbutton']", "input[@name='thinkaboutitbutton']", 30000, null, "674cc377-ad00-46e9-97a7-0f414550d911");
                 _thoughtssofarbuttonInfo = new RepoItemInfo(this, "Thoughtssofarbutton", "input[@name='thoughtssofarbutton']", "input[@name='thoughtssofarbutton']", 30000, null, "9b190245-93e5-41dd-a0bc-cf9267557167");
+                _stimulusInfo = new RepoItemInfo(this, "Stimulus", "input[@name='stimulus']", "", 30000, null, "b1afa53a-5923-42f7-ac5b-46aa3a4adcba");
             }
 
             /// <summary>
@@ -673,6 +660,30 @@ namespace cleverTest
                     return _thoughtssofarbuttonInfo;
                 }
             }
+
+            /// <summary>
+            /// The Stimulus item.
+            /// </summary>
+            [RepositoryItem("b1afa53a-5923-42f7-ac5b-46aa3a4adcba")]
+            public virtual Ranorex.InputTag Stimulus
+            {
+                get
+                {
+                    return _stimulusInfo.CreateAdapter<Ranorex.InputTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The Stimulus item info.
+            /// </summary>
+            [RepositoryItemInfo("b1afa53a-5923-42f7-ac5b-46aa3a4adcba")]
+            public virtual RepoItemInfo StimulusInfo
+            {
+                get
+                {
+                    return _stimulusInfo;
+                }
+            }
         }
 
         /// <summary>
@@ -683,6 +694,8 @@ namespace cleverTest
         {
             RepoItemInfo _yenidenyuekleInfo;
             RepoItemInfo _paneInfo;
+            RepoItemInfo _element137394944Info;
+            RepoItemInfo _pane1Info;
 
             /// <summary>
             /// Creates a new CleverbotComACleverBotSpeakTo  folder.
@@ -692,6 +705,8 @@ namespace cleverTest
             {
                 _yenidenyuekleInfo = new RepoItemInfo(this, "YenidenYuekle", "container[@accessiblename>'Cleverbot.com - a clever bot']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/button[@accessiblename='Yeniden Yükle']", ".//button[@accessiblename='Yeniden Yükle']", 30000, null, "614f220d-3cf9-478e-9cd0-9d95e3cf5963");
                 _paneInfo = new RepoItemInfo(this, "Pane", "container[@accessiblename>'Como te llamas? - Google']/container[@accessiblename='Google Chrome']//tabpagelist[@accessiblerole='PageTabList']/container[1]/container[2]", ".//tabpagelist/container[1]/container[2]", 30000, null, "701b2d42-c510-41c5-8a0c-d663a30add0e");
+                _element137394944Info = new RepoItemInfo(this, "Element137394944", "element[@controlid='137394944']", "", 30000, null, "45493aa4-84a4-4e08-b04b-ce0d0a35cf8b");
+                _pane1Info = new RepoItemInfo(this, "Pane1", "container[@accessiblename>'Yes is he a good guy. - Google']/container[@accessiblename='Google Chrome']//tabpagelist[@accessiblerole='PageTabList']/container[1]/container[2]", "", 30000, null, "c9f38c51-31ff-4fee-b5ed-fbc1140542f8");
             }
 
             /// <summary>
@@ -763,6 +778,120 @@ namespace cleverTest
                 get
                 {
                     return _paneInfo;
+                }
+            }
+
+            /// <summary>
+            /// The Element137394944 item.
+            /// </summary>
+            [RepositoryItem("45493aa4-84a4-4e08-b04b-ce0d0a35cf8b")]
+            public virtual Ranorex.Unknown Element137394944
+            {
+                get
+                {
+                    return _element137394944Info.CreateAdapter<Ranorex.Unknown>(true);
+                }
+            }
+
+            /// <summary>
+            /// The Element137394944 item info.
+            /// </summary>
+            [RepositoryItemInfo("45493aa4-84a4-4e08-b04b-ce0d0a35cf8b")]
+            public virtual RepoItemInfo Element137394944Info
+            {
+                get
+                {
+                    return _element137394944Info;
+                }
+            }
+
+            /// <summary>
+            /// The Pane1 item.
+            /// </summary>
+            [RepositoryItem("c9f38c51-31ff-4fee-b5ed-fbc1140542f8")]
+            public virtual Ranorex.Container Pane1
+            {
+                get
+                {
+                    return _pane1Info.CreateAdapter<Ranorex.Container>(true);
+                }
+            }
+
+            /// <summary>
+            /// The Pane1 item info.
+            /// </summary>
+            [RepositoryItemInfo("c9f38c51-31ff-4fee-b5ed-fbc1140542f8")]
+            public virtual RepoItemInfo Pane1Info
+            {
+                get
+                {
+                    return _pane1Info;
+                }
+            }
+        }
+
+        /// <summary>
+        /// The ExplorerAppFolder folder.
+        /// </summary>
+        [RepositoryFolder("8ff5d3b2-bbe2-43f3-be78-314a08ff9e2d")]
+        public partial class ExplorerAppFolder : RepoGenBaseFolder
+        {
+            RepoItemInfo _list1Info;
+
+            /// <summary>
+            /// Creates a new Explorer  folder.
+            /// </summary>
+            public ExplorerAppFolder(RepoGenBaseFolder parentFolder) :
+                    base("Explorer", "/form[@title='']", parentFolder, 30000, null, true, "8ff5d3b2-bbe2-43f3-be78-314a08ff9e2d", "")
+            {
+                _list1Info = new RepoItemInfo(this, "List1", "?/?/list[@controlid='1']", "", 30000, null, "8225d26d-9b3a-4b12-8351-9fcbee61f257");
+            }
+
+            /// <summary>
+            /// The Self item.
+            /// </summary>
+            [RepositoryItem("8ff5d3b2-bbe2-43f3-be78-314a08ff9e2d")]
+            public virtual Ranorex.Form Self
+            {
+                get
+                {
+                    return _selfInfo.CreateAdapter<Ranorex.Form>(true);
+                }
+            }
+
+            /// <summary>
+            /// The Self item info.
+            /// </summary>
+            [RepositoryItemInfo("8ff5d3b2-bbe2-43f3-be78-314a08ff9e2d")]
+            public virtual RepoItemInfo SelfInfo
+            {
+                get
+                {
+                    return _selfInfo;
+                }
+            }
+
+            /// <summary>
+            /// The List1 item.
+            /// </summary>
+            [RepositoryItem("8225d26d-9b3a-4b12-8351-9fcbee61f257")]
+            public virtual Ranorex.List List1
+            {
+                get
+                {
+                    return _list1Info.CreateAdapter<Ranorex.List>(true);
+                }
+            }
+
+            /// <summary>
+            /// The List1 item info.
+            /// </summary>
+            [RepositoryItemInfo("8225d26d-9b3a-4b12-8351-9fcbee61f257")]
+            public virtual RepoItemInfo List1Info
+            {
+                get
+                {
+                    return _list1Info;
                 }
             }
         }

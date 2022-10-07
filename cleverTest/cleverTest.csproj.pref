@@ -1,12 +1,18 @@
 ﻿<Properties>
   <Array name="active">
-    <Element value="cleverTest.rxtst" />
+    <Element value="Records\BtnThinkforme.rxrec" />
   </Array>
   <Array name="bookmarks" />
   <Array name="files">
     <Element value="cleverTest.rxtst" />
+    <Element value="Records\BtnThinkformeCode.cs" />
+    <Element value="cleverTestRepository.rxrep" />
+    <Element value="Records\BtnThinkforme.rxrec" />
   </Array>
   <Properties name="projectSavedData">
-    <Array name="recentusercodeselections" />
+    <Array name="recentusercodeselections">
+      <Element value="cleverTest.Records.BtnThinkforme.clickTenTimes()" />
+      <Element value="cleverTest.Records.BtnThinkforme.clickTenTimes()" />
+    </Array>
   </Properties>
 </Properties>

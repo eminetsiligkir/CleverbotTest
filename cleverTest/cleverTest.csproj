@@ -126,356 +126,121 @@
     <Compile Include="AssemblyInfo.cs">
       <id>ac19b94c-3ce3-4e21-bf97-ff593dab6eb6</id>
     </Compile>
-    <Compile Include="BtnClick0.cs">
-      <BoundTo>f838539b-431e-44be-907d-940293389c95</BoundTo>
-      <DependentUpon>BtnClick0.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>009b325f-8c15-4f68-bbdf-b0fda93c4de8</id>
-    </Compile>
-    <Compile Include="BtnClick0.UserCode.cs">
-      <BoundTo>f838539b-431e-44be-907d-940293389c95</BoundTo>
-      <DependentUpon>BtnClick0.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>6e0d38ff-2b47-444c-9647-521bc653bd92</id>
-    </Compile>
-    <Compile Include="BtnClick2.cs">
-      <BoundTo>f864a87e-83f6-4f24-b555-0bfc2e6386bd</BoundTo>
-      <DependentUpon>BtnClick2.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>83032d64-cc54-4179-be02-b3cba1b3cffb</id>
-    </Compile>
-    <Compile Include="BtnClick2.UserCode.cs">
-      <BoundTo>f864a87e-83f6-4f24-b555-0bfc2e6386bd</BoundTo>
-      <DependentUpon>BtnClick2.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>8e56961a-9587-401c-8de7-5e4d3360f442</id>
-    </Compile>
-    <Compile Include="BtnClick3.cs">
-      <BoundTo>e4ee75b8-db8d-4e7a-8d69-529239e88af0</BoundTo>
-      <DependentUpon>BtnClick3.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>069e3da8-852d-449a-9918-5b5a6ae4d184</id>
-    </Compile>
-    <Compile Include="BtnClick3.UserCode.cs">
-      <BoundTo>e4ee75b8-db8d-4e7a-8d69-529239e88af0</BoundTo>
-      <DependentUpon>BtnClick3.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>70a35e18-10c0-4c29-923b-aa85d09f191e</id>
-    </Compile>
-    <Compile Include="BtnClick4.cs">
-      <BoundTo>9cbba675-7c30-4e55-9de6-f82c28d2a6de</BoundTo>
-      <DependentUpon>BtnClick4.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>a364b4b7-1891-4b22-93fc-baf06ecd935f</id>
-    </Compile>
-    <Compile Include="BtnClick4.UserCode.cs">
-      <BoundTo>9cbba675-7c30-4e55-9de6-f82c28d2a6de</BoundTo>
-      <DependentUpon>BtnClick4.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>ee0adc01-11bd-4cdd-8d29-02574e252c24</id>
-    </Compile>
-    <Compile Include="BtnClick5.cs">
-      <BoundTo>aa185a45-0713-4788-8422-5294b5b29974</BoundTo>
-      <DependentUpon>BtnClick5.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>138b4c64-ee52-4de9-a912-51753c022977</id>
-    </Compile>
-    <Compile Include="BtnClick5.UserCode.cs">
-      <BoundTo>aa185a45-0713-4788-8422-5294b5b29974</BoundTo>
-      <DependentUpon>BtnClick5.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>4957eaf1-bd58-4e35-8172-f7c9ff3f264c</id>
-    </Compile>
-    <Compile Include="BtnClick6.cs">
-      <BoundTo>bdeca0c6-f85a-43a4-8395-a865da3e4e72</BoundTo>
-      <DependentUpon>BtnClick6.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>a4ac4ee9-83d9-4e4c-87fe-ba8011c51079</id>
-    </Compile>
-    <Compile Include="BtnClick6.UserCode.cs">
-      <BoundTo>bdeca0c6-f85a-43a4-8395-a865da3e4e72</BoundTo>
-      <DependentUpon>BtnClick6.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>f93bf604-524d-4a2f-b282-5d3559aaaa81</id>
-    </Compile>
-    <Compile Include="BtnClick7.cs">
-      <BoundTo>b15baa4e-e749-414f-8da3-f818afd7077c</BoundTo>
-      <DependentUpon>BtnClick7.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>25d14b2c-525d-453c-9742-b06a377a5ab9</id>
-    </Compile>
-    <Compile Include="BtnClick7.UserCode.cs">
-      <BoundTo>b15baa4e-e749-414f-8da3-f818afd7077c</BoundTo>
-      <DependentUpon>BtnClick7.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>19ecf93d-c917-4089-ae5c-edea0c55c1f7</id>
-    </Compile>
-    <Compile Include="BtnClick8.cs">
-      <BoundTo>4dc6e9be-934d-4c0a-acf5-ab1cf219829b</BoundTo>
-      <DependentUpon>BtnClick8.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>077d101a-31be-4b15-8447-4f7fecdf0491</id>
-    </Compile>
-    <Compile Include="BtnClick8.UserCode.cs">
-      <BoundTo>4dc6e9be-934d-4c0a-acf5-ab1cf219829b</BoundTo>
-      <DependentUpon>BtnClick8.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>22e3f70f-ac7a-44a6-8752-8bd1ba241cb1</id>
-    </Compile>
-    <Compile Include="BtnClick9.cs">
-      <BoundTo>e5519116-d2a2-42b9-ac49-288d8d4d8862</BoundTo>
-      <DependentUpon>BtnClick9.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>b555c4b4-f79a-4b12-858c-f34b4e75e067</id>
-    </Compile>
-    <Compile Include="BtnClick9.UserCode.cs">
-      <BoundTo>e5519116-d2a2-42b9-ac49-288d8d4d8862</BoundTo>
-      <DependentUpon>BtnClick9.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>f18261d7-5167-4e22-b582-1d2b2ff383d3</id>
-    </Compile>
-    <Compile Include="ChatWord0.cs">
-      <BoundTo>7045e6f5-69f8-467d-9727-21d1864cae02</BoundTo>
-      <DependentUpon>ChatWord0.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>7ce8fa8b-92dd-4b64-b633-4eed87a20dba</id>
-    </Compile>
-    <Compile Include="ChatWord0.UserCode.cs">
-      <BoundTo>7045e6f5-69f8-467d-9727-21d1864cae02</BoundTo>
-      <DependentUpon>ChatWord0.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>405008d8-3922-493c-a81b-9b8cb30384bd</id>
-    </Compile>
-    <Compile Include="ChatWord1.cs">
-      <BoundTo>6f99be4b-7161-4dec-95dd-c16e7437322c</BoundTo>
-      <DependentUpon>ChatWord1.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>de41def0-7fdd-48df-9b6c-99608aeb8859</id>
-    </Compile>
-    <Compile Include="ChatWord1.UserCode.cs">
-      <BoundTo>6f99be4b-7161-4dec-95dd-c16e7437322c</BoundTo>
-      <DependentUpon>ChatWord1.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>50ffbac5-93e1-4b9a-b4ea-5b56725754c3</id>
-    </Compile>
-    <Compile Include="ChatWord2.cs">
-      <BoundTo>32d62117-853f-4eaf-86eb-d117daa8d442</BoundTo>
-      <DependentUpon>ChatWord2.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>a053c2e1-515e-4e09-b6a0-dd585aa31b9f</id>
-    </Compile>
-    <Compile Include="ChatWord2.UserCode.cs">
-      <BoundTo>32d62117-853f-4eaf-86eb-d117daa8d442</BoundTo>
-      <DependentUpon>ChatWord2.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>78cc6b3c-7388-4eb7-a2a8-2ee1be8035e4</id>
-    </Compile>
-    <Compile Include="ChatWord3.cs">
-      <BoundTo>b04cc5f4-c0de-4e44-98d3-fa1b436a28e0</BoundTo>
-      <DependentUpon>ChatWord3.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>089e9c72-4cc9-47e0-9f74-c4b10ef354f0</id>
-    </Compile>
-    <Compile Include="ChatWord3.UserCode.cs">
-      <BoundTo>b04cc5f4-c0de-4e44-98d3-fa1b436a28e0</BoundTo>
-      <DependentUpon>ChatWord3.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>aed0de62-2294-456c-a2c3-89639dd2b3c4</id>
-    </Compile>
-    <Compile Include="ChatWord4.cs">
-      <BoundTo>f8579faf-b0af-446e-893c-4cf2c6676389</BoundTo>
-      <DependentUpon>ChatWord4.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>9c359a9a-a8e9-463b-9b88-8d5f8d488813</id>
-    </Compile>
-    <Compile Include="ChatWord4.UserCode.cs">
-      <BoundTo>f8579faf-b0af-446e-893c-4cf2c6676389</BoundTo>
-      <DependentUpon>ChatWord4.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>74f5685f-c5f1-400b-8413-e178b73ebdf0</id>
-    </Compile>
-    <Compile Include="ChatWord5.cs">
-      <BoundTo>275bab35-372b-4c2e-baf4-893b96ec6abc</BoundTo>
-      <DependentUpon>ChatWord5.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>8fb6f330-7873-4e40-bf13-bcb3cc291852</id>
-    </Compile>
-    <Compile Include="ChatWord5.UserCode.cs">
-      <BoundTo>275bab35-372b-4c2e-baf4-893b96ec6abc</BoundTo>
-      <DependentUpon>ChatWord5.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>b448f118-e05a-4218-98f3-02219dc9ba1f</id>
-    </Compile>
-    <Compile Include="ChatWord6.cs">
-      <BoundTo>b4da881d-2ba8-41a2-a505-665df5816c71</BoundTo>
-      <DependentUpon>ChatWord6.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>ff8ebf70-21e5-4119-b5e4-6a217e0c8c2c</id>
-    </Compile>
-    <Compile Include="ChatWord6.UserCode.cs">
-      <BoundTo>b4da881d-2ba8-41a2-a505-665df5816c71</BoundTo>
-      <DependentUpon>ChatWord6.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>15e9fd37-287d-4d47-a211-16693caf70dd</id>
-    </Compile>
-    <Compile Include="ChatWord7.cs">
-      <BoundTo>665d8f7e-bc0f-4a7c-bdb5-730e0591f4ad</BoundTo>
-      <DependentUpon>ChatWord7.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>d3294dee-bd5b-4e6f-8996-526021b3ffef</id>
-    </Compile>
-    <Compile Include="ChatWord7.UserCode.cs">
-      <BoundTo>665d8f7e-bc0f-4a7c-bdb5-730e0591f4ad</BoundTo>
-      <DependentUpon>ChatWord7.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>333e9785-fd09-4545-94e7-615f4e957d9a</id>
-    </Compile>
     <Compile Include="cleverTestRepository.cs">
       <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
       <DependentUpon>cleverTestRepository.rxrep</DependentUpon>
       <RepositoryCode>true</RepositoryCode>
       <id>b3366609-4dbb-4d4c-aa3c-0e05a0afe1b7</id>
     </Compile>
-    <Compile Include="CloseBrowser.cs">
-      <BoundTo>ad110622-a72e-4afc-8aa6-33b9beea035e</BoundTo>
-      <DependentUpon>CloseBrowser.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>02d3c0c1-36be-4707-b326-abdde292904a</id>
-    </Compile>
-    <Compile Include="CloseBrowser.UserCode.cs">
-      <BoundTo>ad110622-a72e-4afc-8aa6-33b9beea035e</BoundTo>
-      <DependentUpon>CloseBrowser.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>ffd302a3-1bf3-4385-a4f8-4e221006d351</id>
-    </Compile>
-    <Compile Include="OpenBrowser.cs">
-      <BoundTo>c27fd185-43b3-4930-a5cd-e3075193eca6</BoundTo>
-      <DependentUpon>OpenBrowser.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>1f7a0821-0791-480d-9524-31a830eb3ed2</id>
-    </Compile>
-    <Compile Include="OpenBrowser.UserCode.cs">
-      <BoundTo>c27fd185-43b3-4930-a5cd-e3075193eca6</BoundTo>
-      <DependentUpon>OpenBrowser.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>998f138a-fa7b-43bc-b8ee-54d06149f37a</id>
-    </Compile>
     <Compile Include="Program.cs">
       <id>31484a0c-f7eb-4685-b88e-443c215eef3c</id>
     </Compile>
-    <Compile Include="SubmitIntro.cs">
-      <BoundTo>2152c515-a136-4a03-ac0f-fe5ca9235979</BoundTo>
+    <Compile Include="Records\BtnList.cs">
+      <BoundTo>75f0649d-218d-4927-a11d-ff362091edff</BoundTo>
+      <DependentUpon>BtnList.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>5d33ca4d-b6fa-4d80-8150-62133e1c037c</id>
+    </Compile>
+    <Compile Include="Records\BtnList.UserCode.cs">
+      <BoundTo>75f0649d-218d-4927-a11d-ff362091edff</BoundTo>
+      <DependentUpon>BtnList.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>fb18d31e-2d45-4b2a-b9fd-b76d1c304d57</id>
+    </Compile>
+    <Compile Include="Records\BtnThinkaboutit.cs">
+      <DependentUpon>BtnThinkaboutit.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>009b325f-8c15-4f68-bbdf-b0fda93c4de8</id>
+      <BoundTo>f838539b-431e-44be-907d-940293389c95</BoundTo>
+    </Compile>
+    <Compile Include="Records\BtnThinkaboutit.UserCode.cs">
+      <DependentUpon>BtnThinkaboutit.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>6e0d38ff-2b47-444c-9647-521bc653bd92</id>
+      <BoundTo>f838539b-431e-44be-907d-940293389c95</BoundTo>
+    </Compile>
+    <Compile Include="Records\BtnThinkaboutitCode.cs">
+      <id>c2fc158f-c60d-4836-95b0-66ee66c5ae2c</id>
+    </Compile>
+    <Compile Include="Records\BtnThinkforme.cs">
+      <BoundTo>fbd84486-d3d2-48fd-8e83-d0782f54f254</BoundTo>
+      <DependentUpon>BtnThinkforme.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>68ce5f73-d4d6-403f-8901-f6cd0631f4f4</id>
+    </Compile>
+    <Compile Include="Records\BtnThinkforme.UserCode.cs">
+      <BoundTo>fbd84486-d3d2-48fd-8e83-d0782f54f254</BoundTo>
+      <DependentUpon>BtnThinkforme.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>ff9ca96e-3aef-4c7b-8f88-ae25bd0bd038</id>
+    </Compile>
+    <Compile Include="Records\BtnThinkformeCode.cs">
+      <id>59afa985-e596-4b24-80c2-bcb004fdbbac</id>
+    </Compile>
+    <Compile Include="Records\BtnThoughtsofar.cs">
+      <BoundTo>1cf97ac2-3f52-4a34-9b5b-9ac911169580</BoundTo>
+      <DependentUpon>BtnThoughtsofar.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>cb9d90f7-67f8-47b5-b252-49ab8e0b3333</id>
+    </Compile>
+    <Compile Include="Records\BtnThoughtsofar.UserCode.cs">
+      <BoundTo>1cf97ac2-3f52-4a34-9b5b-9ac911169580</BoundTo>
+      <DependentUpon>BtnThoughtsofar.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>3a32b146-580c-494e-8125-2e8c734ad91b</id>
+    </Compile>
+    <Compile Include="Records\ChatWord.cs">
+      <DependentUpon>ChatWord.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>7ce8fa8b-92dd-4b64-b633-4eed87a20dba</id>
+      <BoundTo>7045e6f5-69f8-467d-9727-21d1864cae02</BoundTo>
+    </Compile>
+    <Compile Include="Records\ChatWord.UserCode.cs">
+      <DependentUpon>ChatWord.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>405008d8-3922-493c-a81b-9b8cb30384bd</id>
+      <BoundTo>7045e6f5-69f8-467d-9727-21d1864cae02</BoundTo>
+    </Compile>
+    <Compile Include="Records\CloseBrowser.cs">
+      <DependentUpon>CloseBrowser.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>02d3c0c1-36be-4707-b326-abdde292904a</id>
+      <BoundTo>ad110622-a72e-4afc-8aa6-33b9beea035e</BoundTo>
+    </Compile>
+    <Compile Include="Records\CloseBrowser.UserCode.cs">
+      <DependentUpon>CloseBrowser.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>ffd302a3-1bf3-4385-a4f8-4e221006d351</id>
+      <BoundTo>ad110622-a72e-4afc-8aa6-33b9beea035e</BoundTo>
+    </Compile>
+    <Compile Include="Records\OpenBrowser.cs">
+      <DependentUpon>OpenBrowser.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>1f7a0821-0791-480d-9524-31a830eb3ed2</id>
+      <BoundTo>c27fd185-43b3-4930-a5cd-e3075193eca6</BoundTo>
+    </Compile>
+    <Compile Include="Records\OpenBrowser.UserCode.cs">
+      <DependentUpon>OpenBrowser.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>998f138a-fa7b-43bc-b8ee-54d06149f37a</id>
+      <BoundTo>c27fd185-43b3-4930-a5cd-e3075193eca6</BoundTo>
+    </Compile>
+    <Compile Include="Records\SubmitIntro.cs">
       <DependentUpon>SubmitIntro.rxrec</DependentUpon>
       <RecorderCode>true</RecorderCode>
       <id>ff357bc2-1e02-4661-8dac-fe050242bdd8</id>
-    </Compile>
-    <Compile Include="SubmitIntro.UserCode.cs">
       <BoundTo>2152c515-a136-4a03-ac0f-fe5ca9235979</BoundTo>
+    </Compile>
+    <Compile Include="Records\SubmitIntro.UserCode.cs">
       <DependentUpon>SubmitIntro.rxrec</DependentUpon>
       <UserCode>true</UserCode>
       <id>9c990496-4f4d-4022-9815-7ae240b6f2c2</id>
-    </Compile>
-    <Compile Include="BtnClick1.cs">
-      <BoundTo>5f0f06ec-ab3a-4e7a-8cbb-407d4e24df32</BoundTo>
-      <DependentUpon>BtnClick1.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>4a8f2d6e-ee69-40be-bf9a-4756880b9e37</id>
-    </Compile>
-    <Compile Include="BtnClick1.UserCode.cs">
-      <BoundTo>5f0f06ec-ab3a-4e7a-8cbb-407d4e24df32</BoundTo>
-      <DependentUpon>BtnClick1.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>dbca803c-d1c5-4f65-b3be-82d86602ddb0</id>
+      <BoundTo>2152c515-a136-4a03-ac0f-fe5ca9235979</BoundTo>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config">
       <id>de38c6d2-17d9-42a4-a39f-994defd1874d</id>
-    </None>
-    <None Include="BtnClick0.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>f838539b-431e-44be-907d-940293389c95</id>
-      <recordtableid>95f20360-57d7-4c4d-ac84-f721f46a7947</recordtableid>
-    </None>
-    <None Include="BtnClick2.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>f864a87e-83f6-4f24-b555-0bfc2e6386bd</id>
-      <recordtableid>69dd68ca-8b07-4646-9bdc-df85e393a0d0</recordtableid>
-    </None>
-    <None Include="BtnClick3.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>e4ee75b8-db8d-4e7a-8d69-529239e88af0</id>
-      <recordtableid>d7c9e1d8-ef51-4a1d-946a-0d7bc5dfb779</recordtableid>
-    </None>
-    <None Include="BtnClick4.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>9cbba675-7c30-4e55-9de6-f82c28d2a6de</id>
-      <recordtableid>6be3b9c3-3042-4536-8c29-dc02692d8840</recordtableid>
-    </None>
-    <None Include="BtnClick5.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>aa185a45-0713-4788-8422-5294b5b29974</id>
-      <recordtableid>aeadcf66-f06c-4b5b-ae49-056090668a79</recordtableid>
-    </None>
-    <None Include="BtnClick6.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>bdeca0c6-f85a-43a4-8395-a865da3e4e72</id>
-      <recordtableid>1f492940-df3d-4e52-8747-e82179f09497</recordtableid>
-    </None>
-    <None Include="BtnClick7.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>b15baa4e-e749-414f-8da3-f818afd7077c</id>
-      <recordtableid>e9e912c9-9241-4185-8b77-434dd7d3342d</recordtableid>
-    </None>
-    <None Include="BtnClick8.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>4dc6e9be-934d-4c0a-acf5-ab1cf219829b</id>
-      <recordtableid>22a0502f-86c2-4555-abb5-b189e667f474</recordtableid>
-    </None>
-    <None Include="BtnClick9.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>e5519116-d2a2-42b9-ac49-288d8d4d8862</id>
-      <recordtableid>2a85af57-fbcf-4fbd-a2f5-d79db325c813</recordtableid>
-    </None>
-    <None Include="ChatWord0.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>7045e6f5-69f8-467d-9727-21d1864cae02</id>
-      <recordtableid>bd083390-0a4a-471b-b40d-2aa9478ecd62</recordtableid>
-    </None>
-    <None Include="ChatWord1.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>6f99be4b-7161-4dec-95dd-c16e7437322c</id>
-      <recordtableid>531fd772-ea69-47a7-b4fb-bf64e1eb275c</recordtableid>
-    </None>
-    <None Include="ChatWord2.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>32d62117-853f-4eaf-86eb-d117daa8d442</id>
-      <recordtableid>3dfc50b8-ec24-4c94-8334-1a5c055e2f2d</recordtableid>
-    </None>
-    <None Include="ChatWord3.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>b04cc5f4-c0de-4e44-98d3-fa1b436a28e0</id>
-      <recordtableid>3b2a8d20-62d6-414a-8e37-e3f7a92bb798</recordtableid>
-    </None>
-    <None Include="ChatWord4.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>f8579faf-b0af-446e-893c-4cf2c6676389</id>
-      <recordtableid>dd6775a4-1013-46f9-90d5-9aec015bf378</recordtableid>
-    </None>
-    <None Include="ChatWord5.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>275bab35-372b-4c2e-baf4-893b96ec6abc</id>
-      <recordtableid>eb8c6d5a-f4de-46e8-81fa-e348284d53ee</recordtableid>
-    </None>
-    <None Include="ChatWord6.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>b4da881d-2ba8-41a2-a505-665df5816c71</id>
-      <recordtableid>f0b24b17-6dce-48f9-925e-de1dc0fba167</recordtableid>
-    </None>
-    <None Include="ChatWord7.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>665d8f7e-bc0f-4a7c-bdb5-730e0591f4ad</id>
-      <recordtableid>0bc42c6e-ead5-4f10-9403-890ad2606196</recordtableid>
     </None>
     <None Include="cleverTestRepository.rximg">
       <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
@@ -488,25 +253,45 @@
       <repoid>88df7e0d-beb1-42b5-8139-9a75fcfb2298</repoid>
       <reporootid>3e59f2a4-37ba-47ba-933d-502faca92c47</reporootid>
     </None>
-    <None Include="CloseBrowser.rxrec">
+    <None Include="Records\BtnList.rxrec">
+      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
+      <id>75f0649d-218d-4927-a11d-ff362091edff</id>
+      <recordtableid>242e9f70-d31f-4fd4-8b58-f97585934c2d</recordtableid>
+    </None>
+    <None Include="Records\BtnThinkaboutit.rxrec">
+      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
+      <id>f838539b-431e-44be-907d-940293389c95</id>
+      <recordtableid>95f20360-57d7-4c4d-ac84-f721f46a7947</recordtableid>
+    </None>
+    <None Include="Records\BtnThinkforme.rxrec">
+      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
+      <id>fbd84486-d3d2-48fd-8e83-d0782f54f254</id>
+      <recordtableid>c9b82d92-696b-4e56-9064-581217d00831</recordtableid>
+    </None>
+    <None Include="Records\BtnThoughtsofar.rxrec">
+      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
+      <id>1cf97ac2-3f52-4a34-9b5b-9ac911169580</id>
+      <recordtableid>b337dc1f-0ba9-466d-9da6-a393e7db8468</recordtableid>
+    </None>
+    <None Include="Records\ChatWord.rxrec">
+      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
+      <id>7045e6f5-69f8-467d-9727-21d1864cae02</id>
+      <recordtableid>bd083390-0a4a-471b-b40d-2aa9478ecd62</recordtableid>
+    </None>
+    <None Include="Records\CloseBrowser.rxrec">
       <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
       <id>ad110622-a72e-4afc-8aa6-33b9beea035e</id>
       <recordtableid>2be0e6b2-e350-4457-8732-62b17409b24c</recordtableid>
     </None>
-    <None Include="OpenBrowser.rxrec">
+    <None Include="Records\OpenBrowser.rxrec">
       <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
       <id>c27fd185-43b3-4930-a5cd-e3075193eca6</id>
       <recordtableid>fbdfc588-aa84-4da1-83ef-5ff17685ef63</recordtableid>
     </None>
-    <None Include="SubmitIntro.rxrec">
+    <None Include="Records\SubmitIntro.rxrec">
       <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
       <id>2152c515-a136-4a03-ac0f-fe5ca9235979</id>
       <recordtableid>6bf29a5b-cd99-4c49-b958-c4455357dbdc</recordtableid>
-    </None>
-    <None Include="BtnClick1.rxrec">
-      <BoundTo>657e730a-6153-4643-af60-de92dae3b4f9</BoundTo>
-      <id>5f0f06ec-ab3a-4e7a-8cbb-407d4e24df32</id>
-      <recordtableid>397077b5-6347-464c-a729-0e969303c98a</recordtableid>
     </None>
   </ItemGroup>
   <ItemGroup>
@@ -518,6 +303,14 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <id>2d2dffa5-cb9c-48b0-b74e-35584431cdd2</id>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Database">
+      <id>9a08ac79-8c90-479d-b662-5b4efa484131</id>
+    </Folder>
+    <Folder Include="Records">
+      <id>11a29d10-1135-4858-aa40-b24df99dff14</id>
+    </Folder>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(RanorexTargetsPath)" Condition="Exists('$(RanorexTargetsPath)')" />

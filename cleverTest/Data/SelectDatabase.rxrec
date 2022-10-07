@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="4fa115b4-55c1-4155-9371-1a79da78e808"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="SelectDatabase"
+	namespace="cleverTest.Data">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="88df7e0d-beb1-42b5-8139-9a75fcfb2298"
+	name="cleverTestRepository"
+	relativepath="..\cleverTestRepository.rxrep">
+		<codegen
+		classname="cleverTestRepository"
+		namespace="cleverTest">
+		</codegen>
+		<rootfolder
+		id="3e59f2a4-37ba-47ba-933d-502faca92c47"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		SelectDatabase.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

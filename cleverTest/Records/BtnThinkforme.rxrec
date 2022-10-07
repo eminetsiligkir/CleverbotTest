@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="c9b82d92-696b-4e56-9064-581217d00831"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="BtnThinkforme"
+	namespace="cleverTest.Records">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="62;14"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="911c8d59-e7cb-4503-884f-4cbc3c52c4ee"
+		sx="932"
+		sy="438"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="a8287659-41ff-4a99-b957-6ffdf1c4586e"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="7"
+				prefcap="inputtag"
+				rect="870,424,126,32"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						sayitbutton
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						sayitbutton
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						think for me
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="name"
+					type="System.String">
+						thinkformebutton
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						button
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						think for me
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="onclick"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkformebutton']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="fd3e26d0-e95e-4fba-a70c-705572d1bf8f">
+				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
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="88df7e0d-beb1-42b5-8139-9a75fcfb2298"
+	name="cleverTestRepository"
+	relativepath="..\cleverTestRepository.rxrep">
+		<codegen
+		classname="cleverTestRepository"
+		namespace="cleverTest">
+		</codegen>
+		<rootfolder
+		id="3e59f2a4-37ba-47ba-933d-502faca92c47"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		BtnThinkforme.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

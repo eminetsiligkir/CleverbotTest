@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="95f20360-57d7-4c4d-ac84-f721f46a7947"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="BtnThinkaboutit"
+	namespace="cleverTest.Records">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="54;11"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="83f338bd-4b15-4259-8e15-8f9288659565"
+		sx="791"
+		sy="435"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="674cc377-ad00-46e9-97a7-0f414550d911"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="6"
+				prefcap="inputtag"
+				rect="737,424,126,32"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						sayitbutton
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						sayitbutton
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						think about it
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="name"
+					type="System.String">
+						thinkaboutitbutton
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						button
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						think about it
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="onclick"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='www.cleverbot.com']//form[#'avatarform']/input[@name='thinkaboutitbutton']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="341b734d-5e8b-4b7c-bae7-7a5be01b3103">
+				/9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCABgAXoDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACmv938R/OnU1/u/iP50AU7wRiYs7RMdo+SQEev3T6/S
+mXLJIXDxxo2wf6zLMeOij+taNFAGc+5VTaSftMaoT7+v5E/lVu5QGzkQKCAhAH4cU8xhpVcknb0H
+YH1p9DAz1+zZ/fbPK8seXn7vfOPf9asxeZ9hGc+Zs4z1z2qeihgUY/s3kfu8eb5Z3Y69Od3/ANeo
+sAkCZ4kXy12eYueMc45HNadFAFGTfAEKlmMqCPcRj5uxI/OmSRokrRyvEiKgCeaueMc45HNaNFAF
+OOMNdL5n7wrCpBYd8nnB71Db+V5Vv5OPOyN2PvY759v/AK1aVFAGcuzan/P35gz/AHuvOfbFT2nl
+RmYfIjeYQRwOvSrVFADS6DOWUbeDz0p1FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABQQCMEZFFU7zUobOURyLISV3fKB/j7Um0tyow
+lN2ii1sT+6v5UbE/ur+VZ39u2v8Azzm/If40f27a/wDPOb8h/jS549zX6vV/lNHYn91fyo2J/dX8
+qzv7dtf+ec35D/Gj+3bX/nnN+Q/xo549w+r1f5TR2J/dX8qNif3V/Ks7+3bX/nnN+Q/xo/t21/55
+zfkP8aOePcPq9X+U0dif3V/KjYn91fyrO/t21/55zfkP8aP7dtf+ec35D/Gjnj3D6vV/lNHYn91f
+yo2J/dX8qzv7dtf+ec35D/Gj+3bX/nnN+Q/xo549w+r1f5TR2J/dX8qNif3V/Ks7+3bX/nnN+Q/x
+o/t21/55zfkP8aOePcPq9X+U0dif3V/KjYn91fyrO/t21/55zfkP8aP7dtf+ec35D/Gjnj3D6vV/
+lNHYn91fyo2J/dX8qzv7dtf+ec35D/Gj+3bX/nnN+Q/xo549w+r1f5TR2J/dX8qNif3V/KnUVRgN
+2J/dX8qNif3V/KnUUAN2J/dX8qNif3V/KnUUAN2J/dX8qNif3V/KnUUAN2J/dX8qNif3V/KnUUAN
+2J/dX8qNif3V/KnUUAN2J/dX8qNif3V/KnUUAN2J/dX8qNif3V/KnUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABWVeEjXbcjj93/8VWrWTe/8h23/AOuf/wAVUvobUftej/Iub2/vH86N7f3j
++dJTZHWNC7nCjqa3sclx+9v7x/Oje394/nVYXSF4wMbXUtuJ6Yp7ygBCm1gzAZ3Af/rp8ork29v7
+x/Oje394/nUZljBwZEBzj7w603zh5zowChFBLE0WHcm3t/eP50b2/vH86pXlzPE0ZtohOCjOyjO5
+gCoG3H+9n6VNDcxTwiSJg2V3YyMj60gJ97f3j+dG9v7x/OoILhJUU5UMwzt3c08yIH2F1DHtnmnY
+Lkm9v7x/Oje394/nTN65I3DK9eelMa4iEiJvGX6c0WC5Nvb+8fzo3t/eP51FI5RkAAO445bGP8aS
+KeOVmVGBKnmiwXJt7f3j+dUdZJNiMkn94P5GrtUdY/48R/10H8jWdT4GdGF/jRNOZiHGCRxUe9v7
+x/Onz/fH0qOqWxg9xd7f3j+dG9v7x/OmswVSzEADqTUAu0byynKuxGc9Kq1xXLO9v7x/Oje394/n
+ULzAR74yrjOPvAD86c0sakhpEGOuWFFguSb2/vH86N7f3j+dQmYC48ojjZv3Zp4dSm8MCvrniiwX
+H72/vH86N7f3j+dVoLoTB2ICIv8AEWH+RUoljKbw67R/FnihqwXJN7f3j+dG9v7x/OmK6vnawbBw
+cHNIJYyQBIhJ6AMKVguSb2/vH86N7f3j+dMWRGUsrqVHUg8UI6uMowYeoOaLBcfvb+8fzo3t/eP5
+0lFAFuiiisjUKKKKACiiigAooooAKKKKACiiigAooooAKyb3/kO2/wD1z/8Aiq1qyb3/AJDtv/1z
+/wDiql9Daj9r0f5FuorlPMt5FxklTgY71LRXQchnxRB3t90LBVQhgy4GaFicIoCMALjOMdB/hWhR
+VcxPKZz2+6G5YxEuXO35ece1FxBLJO7KDhVU7SOHx2rRoo5mFiKBt2owNgjMEnBHI5Sob6weG6a/
+tBkEfvYFHL56sPfpx3xTprqGzvYpbiQInlOMnudyVA2pzzWblm+yzxSBpI1AZvKOOcEHoG9O1Yvf
+Q1WxBZslxDB9niO5Xy0gHHHv/SpHibEsZt2aV2JWTHH59quWtslqjKhJDNuPAHYDoAB2qetudmXK
+ig/mRTTDynk8xAAVHGcd6QRlXtHaFmwuGwucHtmtCijmCxXuVZpICASA+TgdKZaJ5dxMvlFcsSG2
+8Y9M1bopX0sOwVR1j/jxH/XQfyNXqo6x/wAeI/66D+RrKp8DOnC/xomlP98fSo6kn++PpUdUtjB7
+jXUMjKRnI6Gs+GItHbo0LDa535XrWlRVp2JauZ7wsFnVIyB5ikACnPAHlumaPdlRtJHt2q9RT5mF
+jNe3ll8tV3LiAA5HU+lXoiHhXKbcjBUjp7VJRScrglYzhAwtUPkk4ky64wSMn86R42aK4aOFo0YA
+BNuCT9K0qKfOLlGRxrGm1FCj2FZ622YY8wncZvm+XnGf5Vp0UlJodjPkgfy7lI0KjcCABjI9qfYR
+sru5DgEAYaMJ+gq7RT5nawuXW4UUUVJRbooorE1CiiigAooooAKKKKACiiigAooooAKKKKACqN7p
+zXVysyXBiKrt4X698+9XqKTVyoTlB3iZf9kz/wDQQk/I/wCNH9kz/wDQQk/I/wCNalFLlRp7ef8A
+SX+Rl/2TP/0EJPyP+NH9kz/9BCT8j/jWpRRyoPbz/pL/ACMv+yZ/+ghJ+R/xo/smf/oISfkf8a1K
+KOVB7ef9Jf5GX/ZM/wD0EJPyP+NQy6BJK5dtQl3FdhIHVfTr0raop8qE605Kz/JGX/ZM/wD0EJPy
+P+NH9kz/APQQk/I/41qUUuVD9vP+kv8AIy/7Jn/6CEn5H/Gj+yZ/+ghJ+R/xrUoo5UHt5/0l/kZf
+9kz/APQQk/I/40f2TP8A9BCT8j/jWpRRyoPbz/pL/Iy/7Jn/AOghJ+R/xpr6NLIu1752Gc4Kk/1r
+Woo5UNYiotn+CEKg9QDRsX+6PypaKowE2L/dH5UbF/uj8qWigBNi/wB0flRsX+6PypaKAE2L/dH5
+UbF/uj8qWigBNi/3R+VGxf7o/KlooATYv90flRsX+6PypaKAE2L/AHR+VGxf7o/KlooATYv90flR
+sX+6PypaKACiiigAooooAKKKKACiiigAooooAKKKKACiiigApr9qdTX7UIBlFFFUSFFFFABRTHfa
+6jjBBJGCTRDJ5sYbBH4EUBcfRUUk4XheTuA6HH504yorbSenXjgfjSuF0PopjSorYJ+vHT60vmLv
+25Ofof50wuOoqNZ42IAbqcDg4zTTOVZA6nLE9FPSlcV0TUUjMFxuOMnAprSopO5sYxnj1pjuPopg
+lQqxzgL1yMYpqzBpGHRQuckEfzpXC6JaKYJkIJyRgZOQRxSecmM5PPTCnmncLokoqMzDzhHg8jOd
+ppRKjNtB5+nWi4XQ+io1mjcgK2c9ODg015wCoTklgp4OPzpXFdE1FFJuG7bnnGaYxaKZ5qepP0BN
+KHU7cHO7pSuh2HUUisGzg9Dg1G0wBAXnLYPHFF0FiWimeam7Ge+OnH50+ncAopruqLljx9M03z4/
+U/8AfJoCzP/Z
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="88df7e0d-beb1-42b5-8139-9a75fcfb2298"
+	name="cleverTestRepository"
+	relativepath="..\cleverTestRepository.rxrep">
+		<codegen
+		classname="cleverTestRepository"
+		namespace="cleverTest">
+		</codegen>
+		<rootfolder
+		id="3e59f2a4-37ba-47ba-933d-502faca92c47"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		BtnThinkaboutit.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
